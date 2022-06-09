@@ -1,14 +1,7 @@
 ---
+title: ''
 contentType: prose
 ---
-
-  
-
-  
-
-  
-
-  
 
   
 
@@ -34,9 +27,7 @@ Matoušek bude mučený několik dlouhých let, nikdy nic nepřizná, a to až 
 
 Až v roce 1968 si bude moci Matoušek přečíst původní znění rozsudku, ve kterém se dočte, že „u všech obviněných, vyjma Peřiny a Němce, ukládá zákon za jejich trestnou činnost trest smrti.“ Kdyby probíhal soud jen o rok dříve, houpali by se všichni na šibenici. Odkládání soudu jim změnilo navrhované sazby – z trestu smrti na doživotí!
 
-\* \* \*
-
-  
+* * *
 
 ECKERT VBĚHNE DO KANCELÁŘE, připomíná víc boha války než distingovaného diplomata, kterým ještě před pár lety býval. Taylor sedí za stolem, pod zadkem tlustý telefonní seznam a na něm dva polštáře. Ví, proč se jeho nadřízený zlobí.
 
@@ -106,9 +97,7 @@ Eckert potáhne z cigarety. Dlouhý sloupec popela mu upadne do klína. Vyskoč
 
 „Ano.“
 
-\* \* \*
-
-  
+* * *
 
 PRO JAROMÍRA PŘIJEDOU V NOCI. Vlastu probudí silné rány do dveří. Rozespale vstane a jde do kuchyně. Rozsvítí petrolejku, přehodí přes ramena pletený pléd a jde ke dveřím. Když je otevře, oslepí ji ostré světlo baterky. Jakési ruce ji hrubě odstrčí stranou. Dupot se rozléhá hájenkou. Ostré rozkazy, třeskot nádobí, bouchání dveří, skřípot otevíraných skříní. Kdosi s ní smýkne směrem zpátky do chodby. Vpotácí se do kuchyně. Spatří převrácený stůl, střepy talířů a ulomené ouško jejího oblíbeného hrnku, který dostala od Josífka Hasilů. Hrnek s namalovanými růžičkami zvedne z podlahy. Přidržuje se ho, jako by na něm závisel její další osud. Posadí se na lavici, která zázrakem zůstává coby jediný nábytek na svém původním místě. Nad ní stojí rozkročený péesák a míří jí na hlavu samopalem. Zatím tři muži v civilu spolu s dalším v uniformě prohledávají stavení. Zvenčí se ozývá ostrý psí štěkot, zvuk motoru a jakési nesrozumitelné rozkazy.
 
@@ -168,9 +157,7 @@ Pazderka k ní přiskočí a silně Vlastu obejme. Hladí ji po vlasech. Netu�
 
 Nejraději by se taky rozbrečel. Hodně by se mu ulevilo.
 
-\* \* \*
-
-  
+* * *
 
 RŮŽENA SE DOZVÍ O ZATČENÍ SVÉHO STRÝCE hned po Novém roce. StB zatkne mnoho dalších lidí z Pošumaví, hlavně z Prachaticka. Někdo strýce udal, že u sebe v chalupě schovával Josefa Hasila. Růžena je zmatená. Vždyť jediní, kdo o tom věděli, jsou ona a její strýc, nikdo jiný. Pak ji napadne, že se mohl někomu svěřit nebo prokecnout v hospodě před chlapy. Mohl to být kdokoli z nich. Zatýkání probíhá ve velké vlně, většinou se stávají oběťmi ti, kdo dali Josefovi najíst, svezli ho na motorce nebo jenom projevili sympatie.
 
@@ -182,9 +169,7 @@ Za strýcem nepustí ani její rodiče, ani ji. Kdyby lesní dělníci neviděli
 
 O koně, s nímž strýc svážel dřevo, se postará jeden ze dřevařů. Naštěstí ho napadne, že v opuštěném domě je v maštali ještě ustájená kobyla. Estébáky nezajímá, že lidé, které odvážejí, mají hospodářství a zvířata a ta musí někdo krmit.
 
-\* \* \*
-
-  
+* * *
 
 MARIE VÁVROVÁ UŽ MÁ ZA SEBOU dva roky života v lágru, skoro polovinu trestu, a teprve nyní jí povolují první návštěvu příbuzných. Po takové době spatří svého malého syna! Malého? Jsou mu tři roky. Naposledy ho měla v náruči, když mu byl rok. Nebude si na ni pamatovat. Vyrůstá bez mámy a táty, starají se o něho babičky.
 
@@ -254,9 +239,7 @@ Převede Marii do vedlejší klece. Stále se rozhlíží. Ostatní bachaři maj
 
 Marie se vrhá k ženám, dlouho se objímají. Děda ji hladí po vlasech. Zvedá ze země Josífka a tiskne ho k sobě. Dívá se na ni stejným pohledem, jako když pozoroval zuřícího psa. Nic nechápe. Tuhle ženu nezná. Jenom slýchává vyprávění o mamince, maminka však pro něho zůstává na mnoho let jen pouhou postavou z podivného mýtu. Trvá dlouhá léta, než k sobě najdou cestu. Josífek nikdy nebyl a nebude její. Neodpustí Marii, že odmítla odejít za jeho otcem do Bavorska. Až se Marie za Bräuera provdá, nezapadne její syn do nové rodiny a raději zůstane u babičky. Se svými nevlastními sourozenci se nesblíží. Bude tak podobný svému otci, že s tím budou mít komunisté problém, stále jim bude připomínat jednu z jejich proher. Po matce za svobodna Josef Vávra, má však oči Josefa Hasila, i jeho chůzi a postavu. Když bude hrát fotbal za Zábrdí, nikdo z kluků ho nedohoní. Nejrychlejší a taky nejlepší střelec. Dokonce o něm budou psát na sportovní stránce okresních novin. Ty noviny pošle babička Rozálie do Ameriky jeho otci. Ten bude na svého kluka tak pyšný, že vystaví článek s fotografií do prosklené vitríny místního českého spolku. Otce Josef poprvé spatří v roce 1990.
 
-\* \* \*
-
-  
+* * *
 
 HASIL SE VRÁTÍ Z NEMOCNICE do vilky po dvou měsících. Hned se zapojí do práce. Společně s ostatními drží hlídky u hranic a sleduje, jak roste plot z ostnatého drátu. Zapisuje rozmístění hlídek, jejich střídání. Je jasné, že přes bavorskou hranici už cesta nevede.
 
@@ -406,9 +389,7 @@ Vylezou ven a rychle utíkají ke stodole. Vyhlédnou k Rejžkovně, tam se to
 
 Na zpáteční cestě přes lesy poblíž Smrčiny spatří Josef poletovat podivné broučky. Trnoštítci horští, šumavští tesaříci. Jako by se s ním loučili. Jeden mu usedá na rukáv. Hasil brouka pozoruje a má pocit, že se zastavil čas. Tenkrát ve snu se čas zrychlil. Vzpomene si na podivný sen a po zádech mu přeběhne mráz. Už tehdy viděl ploty z ostnatého drátu.
 
-\* \* \*
-
-  
+* * *
 
 TŘETÍHO PROSINCE 1952 JE POPRAVEN Rudolf Slánský, kdysi druhý nejmocnější muž Komunistické strany Československa.
 

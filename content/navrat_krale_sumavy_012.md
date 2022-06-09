@@ -1,14 +1,7 @@
 ---
+title: ''
 contentType: prose
 ---
-
-  
-
-  
-
-  
-
-  
 
   
 
@@ -28,9 +21,7 @@ Eckert vyfoukne kouř, ten zatančí v průvanu a vyrazí ven do ulice.
 
 „Ale pro jistotu ať projde speciálním výcvikem. A ještě něco. Dávejte mi pravidelně vědět, jak si naši nováčci vedou, i ten Hasil.“
 
-\* \* \*
-
-  
+* * *
 
 JAROSLAV KAŠPAR, krycím jménem Pátý nebo König, je spokojený. Do svého týmu právě přibral dva nové mladé muže. U obou vidí hned několik výhod, prošli výcvikem už v minulosti, Vítek v československé armádě u letectva a Hasil ve škole SNB, umějí zacházet se zbraní, mají skvělou fyzičku a nebojí se. Navíc oba ještě vyškolil komunistický lágr, zažili praktiky Státní bezpečnosti. Nejraději by svrhli bolševika hned zítra. Co mu však vrtá hlavou: proč se sám šéf Eckert prostřednictvím Taylora tolik zajímá o bezvýznamného esenbáka a pak mukla Hasila? Pokud Kašpar ví, tenhle mladík pochází z chudých poměrů a na významných místech žádné konexe nemá. „Však já na to přijdu!“
 
@@ -48,9 +39,7 @@ Hasil proleží dlouhé hodiny u hranice a pozoruje hlídky. Zapisuje přesný
 
 „Jo, šéfe. Lepší je kulka v hlavě než estébácký hrábě v zadku.“
 
-\* \* \*
-
-  
+* * *
 
 JOSEF SE DOBROVOLNĚ HLÁSÍ, když je třeba dlouhé dny ležet a sledovat pohyb strážců hranic na české straně. Připadá si jako v dětství, když s kluky bojovali proti partě z druhé vesnice, vždycky jako zvěd na vlastní kůži prožíval dobrodružství statečných indiánských bojovníků, které znal z knížek.
 
@@ -64,9 +53,7 @@ Adolf Pavelka ze Záblatí pracuje společně s Václavem Marešem, Podlešáke
 
 První mise proběhne bez komplikací. Splní vše, co je třeba. S Tondou se sejdou u Samrhelů na statku. Josef na svého parťáka čeká celý den a noc.
 
-\* \* \*
-
-  
+* * *
 
 Z ČESKÝCH BUDĚJOVIC utíká podplukovník duchovní služby československé armády Josef Šuman. Přežil nacistický koncentrák a teď po něm jde StB. Skrývá se v Písku u paní Drašnarové, která jej v noci převáží autem do lesů za Husinec, kde už čeká Josef Hasil. Společně s Šumanem převádí skupinu manželek exulantů i s malými dětmi. Marie s Josífkem zůstávají na české straně.
 
@@ -144,9 +131,7 @@ Podél rakouské hranice míří do Bavorska. Rozespalé vystrašené děti bre�
 
 Až později vyjde najevo, že byli nedaleko místa, kde se rozdělili, zastřeleni pohraniční hlídkou SNB.
 
-\* \* \*
-
-  
+* * *
 
 DNY UBÍHAJÍ RYCHLE, buď je tráví v domku s ostatními, nebo u hranic. Většina agentů-chodců však žije v utečeneckých lágrech, do konspiračních vilek se stěhují těsně před akcí. Jenom několik z nich má nepřetržitou službu. Sledují, zapisují, přecházejí.
 
@@ -154,9 +139,7 @@ V lesích nebo u přátel má Josef několik úkrytů s oblečením. Využív
 
 V německém utečeneckém lágru v Murnau Josefa osloví bývalý vedoucí Hospodářského družstva ze Čkyně Václav Slavíček. Chce, aby mu přivedl za hranice rodinu. Hasil se proto objeví třikrát ve Čkyni a oslovuje Slavíčkovu ženu, té už ale vstoupil do života jiný muž. Josefovi se nepodaří rodinu převést, další chlap bude smutný a opuštěný.
 
-\* \* \*
-
-  
+* * *
 
 BOHUMIL SE SKUPINOU mužů ze Zábrdí a okolních vsí vyčkává na kraji lesa. Mají schůzku s Josefem. Potáhne sem přes čáru těžkou vysílačku. Všude je klid, jenom stařena z Kovářovic statku sbírá chrastí a šišky na podpal do obří nůše. Sotva se shýbne, opřená o hůl, chvíle oddychování a bolestné napřímení, dá-li se o nějakém napřimování hovořit u stářím roztřesené ženy. Chlapi ji poznají podle květované sukně a temně rudého šátku, který zakrývá šedivé prameny vlasů.
 
@@ -198,9 +181,7 @@ Takové úvahy se ovšem střídají s návaly láskyplného stesku, má ho po�
 
 A Josef? Nechce ji nutit. Snad s ním půjde do Bavorska o své vlastní vůli. Kdyby byl zahartusil, kdyby ji byl i s klukem popadl a vlekl za sebou, pak by se podvolila a šla, jenže pak po letech by mohla vyčítat, že její odchod nebyl dobrovolný, jak jen se ona mohla mít, kdyby byla zůstala.
 
-\* \* \*
-
-  
+* * *
 
 „ŠÉFE?“
 
@@ -242,9 +223,7 @@ Marie dál sedí na kufru a odmítá se hnout směrem k Německu. Malý Josíf
 
 Josef s Tondou se ukrývají u známých a přátel v Záblatí, Dvorech, Řepešíně, Kratušíně, v Písku u sestry Žofie, v Zábrdí u Fábery, v Bavorově u Starých, v lesích u Samrhelů.
 
-\* \* \*
-
-  
+* * *
 
 „JOSEFE, ve sběrným táboře je nějakej tvůj krajan.“
 
@@ -304,9 +283,7 @@ Josef Ludvík se podívá na svého synovce Honzu a jeho kamaráda. Všichni t�
 
 Hasilovi dojde, že oba mladíci už pracují pro některou skupinu americké tajné služby. Tipuje je na kluky od bratří Šedů. Nemýlí se. Jen u Ludvíka si není jistý, tam mu intuice napovídá, že je třeba ho ještě přesvědčit.
 
-\* \* \*
-
-  
+* * *
 
 ČÍM DÁL VÍC SE MU STÝSKÁ PO MARII, alespoň si to myslí. Chvílemi si připadá jako zamilovaný kluk.
 
@@ -380,9 +357,7 @@ Když druhý den uklízejí hospodský se ženou sál, najdou na jednom ze stol�
 
 Hospodský po vzkazu skočí a chce papír zničit, bohužel v tu chvíli popadne sáček jeho žena a vyběhne s ním ven, křičí, jako by šlo o život. Muž se ji snaží zastavit, ale je pozdě. Zpráva, že se Josef zúčastnil tancovačky, se pak donese až do Prachatic a taky vyšetřovateli StB Františku Lecovi.
 
-\* \* \*
-
-  
+* * *
 
 KDYŽ JOSEF HASIL NEPLNÍ S TONDOU VÍTKEM na české straně Šumavy rozkazy šéfa Pátého, sedává často s mladými fešáky, jak jim žertem říkává – Honzou Maškem a Jardou Kaskou – v německém krámku, kde prodává jeden z českých uprchlíků, který pochází z Českých Budějovic a jemuž právě oni dva pomohli za hranice. Přidává se k nim Ludvík. Josef mu nabízí, že ho převede za čáru, aby se mohl domluvit se ženou.
 
@@ -476,9 +451,7 @@ A bývalý stavitel Bublík uslyší:
 
 Bublík se vrátí zpátky do Valky.
 
-\* \* \*
-
-  
+* * *
 
 V LESÍCH NAD PRACHATICEMI se Josef schází nejen s Marií, která už je ke svému kufru natolik přikovaná, že se s ní nedá hnout, ale i se sestrami Aloisií a Anežkou a bratrem Juliem. Anežka mu kupuje na lístky nové teplé ponožky a Aloisie zas nechává Josefovi u ševce spravit boty. Ponožky strčí i v sáčku z obchodu do kapsy kabátu, předává mu jej bratr Bohumil. Později si vloží do druhé kapsy jitrnice zabalené do novin, které dostane na statku u Samrhelů od paní Staré. Právě načerno zabíjejí čuníka, aby měli přes zimu dostatek jídla. Krámy jsou poloprázdné a zboží předražené, zvlášť potraviny. Jednu noc přespí u Starých. Nemůže tušit, že se nad všemi stahují mraky, že se hospodář Starý bude řadu let skrývat pod podlahou své stodoly a vylézat jen v noci, aby pracoval na poli, že jeho syna zavřou jenom proto, že svého tátu neudal.
 
@@ -538,9 +511,7 @@ Mezi prsty druhé ruky svírá ampuli s jedem. Stačí ji jenom rychle vsunout 
 
 Dvě hodiny leží v ledovém proudu, byl by v něm zůstal, nebýt jiskry, co mu vlétá do oka a odtud do uší a pošeptá – vstávej, musíš jít! A on se prokřehlý a ztuhlý vynoří, lapá po vzduchu, zajíká se a dusí, protože každý drobný nádech řeže v plicích. Vstane a plazí se ostrou trávou, mrazivým vzduchem k lesu. Necítí už nohy ani ruce, prsty mrznou v křečovitém propletení. Motá se, padá a vstává, naráží do kmenů, pajdající kus mrznoucího mokrého hadru, ztrácí vědomí. Ampule s jedem zapadne do žlutého listí.
 
-\* \* \*
-
-  
+* * *
 
 STB HLÍDÁ SAMRHELŮV STATEK. Čekají, kdy se tady Hasil objeví. Své muže nasazují i na všechny jeho sourozence a matku. Nejraději by je hned všechny pozavírali, ale potřebují je jako návnadu. Jsou si tak jistí, že vůbec nepředpokládají, že by vše mohlo být jinak. Hlídkují i u Vávrů. Od Marie coby volavky si slibují nejvíc. Na ni nasazují svého nejlepšího agenta. Počkají a odsoudí ji společně s celou tou hasilovskou sebrankou, jak jim říkají.
 
@@ -562,9 +533,7 @@ Ale i Jaroslav Pátý, jeho velitel, se smiřuje s tím, že přišel o jedno
 
 Jen dva lidé vědí, kde Josef je.
 
- \* \* \*
-
-  
+* * *
 
 HOREČKA. BLOUZNIVÉ SNY. POT. Přeludy, hranice plná ostnatého drátu, škvařících se těl, střelby z automatů a vyceněných psích tesáků. A s obrazy se mísí tvář mladé dívenky, odněkud ji zná, ale nevzpomíná si, je mu jen povědomá. V horečce se mění v důvěrný obraz Marie Vávrové, je s ním i se synem Josífkem v Bavorsku a chystají se na cestu do Ameriky, jedou vlakem, jí ve větru vlají vlasy… zaoceánský parník, nový svět, nový život, tiskne k sobě ženu i dítě a ve chvíli, kdy chce Marii políbit, promění se v jinou dívku, povědomou, ale i ta se ztrácí v mlze, která mate myšlenky do spletitých chuchvalců, které ne a ne rozmotat.
 
@@ -614,11 +583,11 @@ Upraví se, ohlédne a zamává mu, jako by věděla, že Josefa delší čas n
 
 Když se strýc vrátí z lesa, najde prázdnou postel, krvavé skvrny v záhybu na prostěradle si nevšimne. On cíchy nepere ani nestele, to je ženská práce. Na kusu papíru si přečte vzkaz.
 
+  
+
 > _Děkuju, najdu způsob, jak se vám revanšovat. Na stole máte pět tisíc korun, můžou se hodit. Půjčil jsem si ten starej kabát z maštale. J._
 
-\* \* \*
-
-  
+* * *
 
 U HRAŠOVÝCH ŠESTÉHO prosince ráno zabíjejí čuníka. Je dobrým zvykem se sejít, poklábosit, pomoci řezníkovi s krví, vařením ovaru a pěchováním jitrnic a jelit. Specialitou řezníka Bohumila Hasila je libová voňavá tlačenka. Nikdo ze sousedů nemá tušení, že se s paní Hrašovou a její dcerou vidí naposledy, zabijačka se stane rozloučením. V duchu přejí všem okolo to nejlepší. Netuší, jak bude cesta přes hranice probíhat, míří do neznáma, ale Hraše má jasno:
 
@@ -834,9 +803,7 @@ Až po letech se Josef Vávra, syn Josefa Hasila, setká s jedním ze dvojice s
 
 Druhý den se rodina Hrašových setkává v utečeneckém táboře Murnau, kde je vyfotografuje místní fotograf, taky utečenec. Na památku. Všechny kopie však končí i na české straně v rukou Státní bezpečnosti. Má tak přehled, kdo všechno ilegálně odešel z republiky a za jakých okolností. Vědí, že strážmistr Kočí zahynul během přechodu této rodiny, převáděčem byl obávaný Hasil. Jeho polapení se stane jedním z hlavních úkolů československých strážců západní hranice.
 
-\* \* \*
-
-  
+* * *
 
 OSMÉHO PROSINCE ZAČNE ZATÝKÁNÍ a táhne se přes Štědrý den do Nového roku.
 
@@ -864,9 +831,7 @@ V železných dveřích sklepa se objevuje sám Lec. Antonín ho zná jen podle
 
 Když ho pak převážejí do Budějovic, musejí ho do auta odnést.
 
-\* \* \*
-
-  
+* * *
 
 ANEŽKA HASILOVÁ pracuje v mlékárně, prodává mléko a sýry v malém krámku v Poštovní ulici a bydlí poblíž kostela svatého Jakuba, v Křišťanově ulici, u staršího bratra, pekaře Julia, kterého všichni oslovují „Jardo“.
 
@@ -890,9 +855,7 @@ O necelých dvacet minut později Julius zjistí, že pozavírali jeho bratry, 
 
 Jako vánoční dárek si nadělují přechod hranice hlubokým sněhem. Sbalí se a vyrážejí nakonec sami. Pátý doufá, že se od Hasilů dozví o situaci v Čechách. Když sedí v jeho kanceláři a popisují, čeho byli svědky, zachmuří se. Rychle zvedá telefon a spojuje se s Eckertem. Během půlhodiny jsou odvolané veškeré plánované akce. Agenti-chodci zůstanou až do Nového roku v bezpečí na bavorské straně. Všichni kromě Josefa Hasila. Ten dostává dopis od své snoubenky – „Přijď pro nás! Tentokrát už půjdu.“ Josef nemůže tušit, že jde do pasti. Marii nejdřív zatkli, a pak pustili na svobodu jako volavku.
 
-\* \* \*
-
-  
+* * *
 
 MARIE JE ZMATENÁ. Její nový nápadník, Bräuer, se už neukáže, třebaže slíbil, že přijede a přiveze látku na nové šaty. Je pozorný a Marie má pocit, že s ním budou s malým Josífkem v bezpečí. Myšlenky na přechod přes hranici zaplaší, jako když odhání nepříjemný hmyz. Nemůže tušit, že nesmělého a vystrašeného Bräuera mají na koberečku soudruzi z okresní StB.
 
@@ -962,9 +925,7 @@ Nakonec celé promrzlé dojdou ještě v noci na statek do Škarezu. Tam se o 
 
 Až ve chvíli, kdy ostatní sedláci začnou bombardovat úřady, že hladová zvířata řvou, povolí estébáci Mariině sestře Anně jednou denně docházet do hospodářství. Anně je jasné, že ji také sledují, vědí o každém jejím kroku. Modlí se, aby se tady z čista jasna Hasil neobjevil.
 
-\* \* \*
-
-  
+* * *
 
 „PIŠTE!“
 
@@ -986,9 +947,7 @@ Marie bere pero a mechanicky začíná psát, co jí diktují. Doufá, že Pep�
 
 Ke svým příbuzným se Marie nevrátí. Zavřou ji do jedné z pod­zemních cel a její sestře tvrdí, že k výslechu nedorazila. Neviděli ji. Dopis dají Vávrovi, ten je po Lecových ranách svolný ke všemu a dopis vloží do jedné z mrtvých schránek.
 
-\* \* \*
-
-  
+* * *
 
 „NA TO ZAPOMEŇ! ŘÍKÁM NE! Jsem rád, že tě tady mám zpátky. Copak nechápeš, že jim chceš vlízt přímo do oprátky? Josefe, měj rozum, sakra. Těm lidem tam teď nepomůžeš. Můžeš převést jenom toho, kdo je ještě na svobodě, ale to není její případ. Tvoji snoubenku nezavřeli jenom proto, aby tě dostali. Použijou ji a tvýho syna jako návnadu. Na tebe!“
 
@@ -1022,9 +981,7 @@ Kašpar stojí tiše proti Hasilovi. Až po delší chvíli promluví.
 
 „Nemusíš mi to připomínat, vím to.“
 
-\* \* \*
-
-  
+* * *
 
 TÁBORSKÁ KASÁRNA jsou důležitým místem. Tady sídlí početná posádka, sem přicházejí příkazy z centra, aby dál putovaly do celých jižních Čech. Z táborských kasáren se řídí rozmístění armády a plánují akce poblíž západní hranice.
 
@@ -1110,9 +1067,7 @@ Statek budou hlídat celých devět měsíců, aniž by zjistili, proč Hasil ne
 
 Sliby Marii Vávrové nesplní. Její otec i matka zůstanou ve sklep­ních celách, stejně tak i ona. Pokračují výslechy. Marie nemá tušení, co se děje s jejím ročním synkem. Tvrdí jí, že už syna nikdy neuvidí. Ani jí, ani rodičům nenechají věznitelé napsat jediný dopis. Nikdo neví, kam Vávrovi zmizeli.
 
-\* \* \*
-
-  
+* * *
 
 JARO PADESÁTÉHO ROKU. Do uprchlického tábora Valka u Norimberka proudí stovky nových utečenců z celého Československa. Mezi Čechy a Slováky roste napětí a vzájemná nedůvěra. Podle Slováků Slovensko potřebuje samostatnost. Situace živená zřejmě provokatéry se hrotí každým dnem, až vyústí v nepokoje a otevřené násilí. Během střetů mezi oběma národnostmi je zastřelen mladý muž. Zasáhnout musí německá policie.
 
@@ -1128,9 +1083,7 @@ Třetí cestu do Československa podnikne Ludvík na podzim s Josefem Hasilem.
 
 Josef chce společně s bratry přes hranici převést uprchlého vězně Františka Kolafu, který v březnu utekl z tábora nucených prací a přes celé Slovensko a Moravu šel pěšky až na Šumavu, kde se celou tu dobu ukrývá. Na jedenáctého července je plánovaný návrat, ten však musí Josef odložit na neurčito. Varování přichází ze všech stran. Z Písku, Vodňan, Prachatic i Karlových Varů, zkrátka každý, kdo s ním spolupracuje, ho nabádá, aby se ukryl a vyčkal. Teď není dobrá doba na dráždění hada bosou nohou, jak říkává sedlák Rejžek. SNB zostří ostrahu hranice, očekávají, že se Josef objeví v souvislosti s blížícím se soudním procesem s rodinou Hasilových. Jistě podle nich bude chtít vědět, jaký osud jeho nejbližší čeká.
 
-\* \* \*
-
-  
+* * *
 
 „TEN PROCES začíná v Budějcích už zejtra,“ říká Fábera a co chvíli si stírá z čela pot. Třesou se mu ruce. „Předsedá mu nějakej Prášek, předchází ho strašná pověst. Pro všechny chce hned trest smrti.“
 
@@ -1260,9 +1213,7 @@ Večer přijedou k Rejžkovi dva muži z Písku a Žofie s mužem. Začátek
 
 „Kde to sakra maj ty lidi vzít? Snad ne vydělat v base?“
 
-\* \* \*
-
-  
+* * *
 
 VÁLKA V EVROPĚ JE NA SPADNUTÍ. Na Západě se bojí, že se Evropou zase budou valit armády tanků a obrněné techniky, že to, co před pár lety skončilo, opět vzplane a zachvátí města, vesnice a celou krajinu. Sovětský útok je očekávaný každým dnem, každou hodinou a první nápor má přijít právě z české strany Šumavy. Proto roste tlak na kurýry, kteří přecházejí ilegálně hranici. A ještě větší strach z hrozícího konfliktu zachvátí Západ v létě, když vypukne válka v Koreji.
 
@@ -1288,9 +1239,7 @@ Pátý se zvedne.
 
 „Díky, kluci, jsem rád, že mám takovou skupinu. Jinde to tak jednoznačný nemají. S výcvikem začneme hned zítra. Počítejte s budíčkem v půl páté ráno. V pět je odjezd na letiště. Nějaké dotazy? Žádné? Tak dobře. Ani nevíte, jak rád se napiju.“
 
-\* \* \*
-
-  
+* * *
 
 JOSEF LEŽÍ VE SVÉM POKOJI. Bydlí společně s ostatními z Pátého skupiny ve vile na kraji města. Agentura je krytá truhlářskou firmou. Jaroslav Kašpar pobývá většinu času v Mnichově a jen mimořádně se objevuje i poblíž hranic. Krycí jméno Pátý má už z druhé světové války. Je vojákem tělem i duší, v armádě sloužil od roku 1921. Po Vojenské akademii v Hranicích se stal dělostřelcem, leteckým dělostřeleckým pozorovatelem a pilotem. Po ukončení Vysoké školy válečné roku 1936 dostal hodnost majora generálního štábu. Po okupaci se zapojil do odboje, pracoval v Obraně národa a pomáhal vojákům s odchodem do zahraničí. Účastnil se vojenských misí v Sovětském svazu a v Íránu a stal se styčným důstojníkem u spojeneckých armád. Do exilu odešel už v dubnu 1948 a stal se šéfem jedné ze zpravodajských skupin americké tajné služby v Německu.
 
@@ -1362,9 +1311,7 @@ Bývalý strážmistr Míčko projde základním výcvikem agenta-chodce. Pátý
 
 „Uvidíme.“
 
-\* \* \*
-
-  
+* * *
 
 CELÉ LÉTO SE JOSEF SNAŽÍ navázat kontakt s babičkou Vávrů a do­mluvit s ní, že si odnese syna s sebou do Bavorska. Babička zpočátku o něčem takovém nechce ani slyšet. Mariina sestra, která jí pomáhá, pláče, neumí si představit, že by se měla od kluka odloučit. Až později svůj postoj změní. Josef musí slíbit, že pro synka i Marii přijde, až ji pustí z lágru a Josífek bude o něco větší. Josef přísahá, že se o oba dobře postará, přestane dělat špiona, odjedou za oceán a on si sežene pořádnou práci.
 
@@ -1452,9 +1399,7 @@ Bohumil se ani neohlédne, odloupne se ze stínu křoviska a přikrčený přeb
 
 Ani jeden z bratrů nemůže vědět, že byli zrazeni dřív, než vůbec vyrazili. A zrádců je hned několik. Ti si však jsou naprosto jistí, že ani jeden z bratrů se ze své mise nevrátí, že nebudou mít možnost vypovědět, jak necelých pět set metrů od hraničních kamenů je v půlkruhu za kamennou hrází poschovávaná celá posádka strážců hranic, mají předem na valech připravené střílny. Vědí, že nejdřív půjde jeden muž a teprve s odstupem za ním další. Nechají je dojít až k hornímu valu, dole pak uzavřou kruh a chytí je tak do neprodyšně uzavřené pasti, do smyčky, kterou stáhnou. Říkají tomu pytel. Konečně chytí Krále Šumavy Hasila. Živého nebo mrtvého. Konečně se mu pomstí za všechny provokace a vzkazy – nacházejí je na Soumarském mostě, pod okny útvaru, u zdi kostela v Českých Žlebech. Vždycky tam je napsáno na kusu papíru velkým písmem: PROŠEL JSEM VÁM, KAMARÁDI! PEPA HASIL.
 
-\* \* \*
-
-  
+* * *
 
 RŮŽENA ŠTUDLAROVÁ leží a dívá se do tmy, v níž tuší trámy a vápnem natřenou zeď. Je myšlenkami u Josefa, touží se s ním ještě setkat. Teď v noční temnotě její touha sílí. Představuje si, že leží vedle něj, cítí jeho horký dech… Od chvíle, kdy s ním přišla o panenství, má utkvělou představu, že ji převede za hranice a ona s ním bude žít. Klidně mu bude prát a vařit. Pro ni je hrdina, žádný desperát a vyvrhel společnosti, jak jim říkal ředitel gymnázia, ale opravdový chlap, který se nebojí postavit bolševikům.
 
@@ -1466,9 +1411,7 @@ Ale kde je? Kdy už konečně přijde? Nemůže ji nechat čekat věčně. Touž
 
 „Pane Bože, vyřiď mu, že jsem tady a čekám. Řekni mu to a nenech mě trpět. Miluju ho. Jak já ho miluju!“
 
-\* \* \*
-
-  
+* * *
 
 VLASTA SEDÍ V PROSTORNÉ KUCHYNI HÁJENKY na dřevěné lavici za dubovým stolem, teď ve světle petrolejky bledě šedivým, jako by byl vystavený celé dny slunci a dešťům. Pohledem vpitá do tmavomodré dálky za oknem, zatímco její muž čistí brokovnici. Mlčí. Jsou jako dva větrem vyvrácené stromy, jen tak tak, že se nezřítí k zemi během vichřice, která každou chvíli kácí lidi kolem nich. Jakýmsi zázrakem její Jaromír i kominík Pazderka ještě zůstávají na svobodě, třebaže dál převádějí lidi přes hranici, dál riskují životy. Je jen otázka času, kdy se i do nich opře vichr a podrazí jim nohy.
 
@@ -1480,9 +1423,7 @@ Vlastu napadne, že se při nejbližší příležitosti zeptá Pazderky, jestli
 
 „Vlastičko, Vlastičko, jak ty jsi nádherná…“
 
-\* \* \*
-
-  
+* * *
 
 MARIE NEMÁ ŽÁDNÉ ZPRÁVY o rodičích ani o sestře a malém Josífkovi. V noci si pro ni zas přišli a vyslýchali. Kudy přechází Hasil, kdo s ním spolupracuje, kde mají zbraně… Chtějí, aby se s ním sešla, až ji pustí ven. Stále dokola slyší jediné, musí jim pomoct Hasila chytit. Je to její jediná šance! Spolupráce! Dopisy psát nesmí, ani je přijímat.
 
@@ -1498,9 +1439,7 @@ Přemýšlí o sebevraždě. Je však mladá, příliš mladá, její tělo se 
 
 Jen jeho otec se jí ztrácí v mlžném oparu, ztěžka si v paměti vyvolává jeho obraz. Paměť ji zrazuje. Do podoby Josefa se promítají tváře desítek jiných mladých mužů, až si ve vzpomínce vytvoří univerzálního, spíš povědomého než důvěrně známého milence, snoubence, otce svého dítěte. Není daleko od chvíle, ve které by Josefa začala nenávidět. V téhle díře dřepí jenom kvůli němu, nebo snad ne? Kvůli jeho nočním výletům přes hranici, kvůli jeho hře na vojáky, kvůli jeho dobrodružné povaze, kvůli jeho sobectví… Sakra, vždyť ona mohla žít úplně normálním životem! Tady v Čechách! Kdyby on neblbnul anebo… tam za hraničními kameny. Sice by musela mluvit německy nebo se naučit anglicky, ale byla by paní svého domu a udržovala by teplo rodinného krbu, po tom vždycky toužila. A najednou si uvědomuje, že vsadila na nepravou kartu, na komunistu Bräuera, myslela si naivně, že když se bude držet jeho, a ne špiona Hasila, život půjde v klidu a míru dál. Ono osvícení zabolí a zabodne se v ostrém stenu do hrudi. O to víc slzy smývají minulost, zaplavují přítomnost a utápějí budoucnost. Žádná budoucnost pro ni neexistuje. Nic už ji nečeká. Nic dobrého. S uslzenou tváří a černými myšlenkami konečně usíná. Netuší, že právě teď její Josef pouhého půl kilometru od bavorské hranice bojuje o život.
 
-\* \* \*
-
-  
+* * *
 
 KOSTELNÍ ZVON V HAIDMÜHLE odbíjí jedenáctou, zbývá hodina do půlnoci. Bohumil vyráží přes bývalou pastvinu. Nyní nesečenou ani nespasenou dobytkem. Myslí si, že Josef se vydá za ním hned, jak mu on zmizí z dohledu. Hráz kamenů. Jde těsně vedle ní. Ještě necelých patnáct metrů a narazí na druhý val, který kolmo protíná ten jeho. Tam nahoře bude muset přelézt a zmizet mezi stromy. Otáčí se. Josefa nikde nevidí. Zastavuje se a naslouchá. Náhle před ním, kousek vpravo, cosi cvakne. Ten zvuk naruší ticho tak náhle, že i listí ve větvích se zachvěje, byl by přísahal, že ano. Uzávěr samopalu. Bohumil tím směrem rychle namíří svou brokovnici. V tu chvíli ho ze všech stran ohluší střelba, přerušované dávky, ohnivá palba ozařuje půlkruh kolem něho.
 
@@ -1532,9 +1471,7 @@ Bohumila zahrabou do země u hřbitovní zdi přímo ve vsi. Hrob neoznačí, p
 
 Květiny s hořící svíčkou se tu objevují až do jara čtyřiapadesátého roku, kdy už na místě roste jenom tráva a nikdo by neuhodl, že pod ní leží člověk. Ani do rakve ho nedali, jen hodili do jámy.
 
-\* \* \*
-
-  
+* * *
 
 MÍČKO, KTERÉMU KAMARÁDI NEŘEKNOU JINAK než Mlíčňáku, sedí na dřevěné židli uprostřed kanceláře Charlese Eckerta. Ten se opírá o okraj stolu a pohrává si se zapálenou cigaretou. Za stolem se ztrácí drobná Taylorova postavička. Míčko nemůže tušit, jak se tito dva pánové opravdu jmenují, nikdo mu je nepředstavoval. Za jeho zády stojí ta žena. Zahlédl ji jen jednou a od té doby na ni nemůže zapomenout. Krátké černé vlasy, její oči, ty oči ho přitahují snad víc než smyslná ústa. Nad ním se sklání Jaroslav Pátý, je rudý vzteky.
 
@@ -1640,9 +1577,7 @@ C5 kývne a vyjde ven do chodby.
 
 „Jestli je to rozumné? Milý, příteli, v téhle době není jediná věc, o které bych mohl s klidným svědomím říct, že je rozumná, natož abych to mohl tvrdit o spojení C5 s Hasilem. Ale jediné vím jistě, ten chlapec v její přítomnosti přijde na jiné myšlenky. Pokud to nevíte, tak jeho snoubenka je v komunistickém lágru a syn vyrůstá bez otce i matky. Všichni jeho příbuzní a známí jsou taky v koncentrácích. Dejme mu možnost, aby na tuhle skutečnost aspoň na moment zapomněl. C5 je sice nekompromisním vojákem, ale má i jiné přednosti.“
 
-\* \* \*
-
-  
+* * *
 
 JOSEF JE PŘEKVAPENÝ, když za ním přijde. Už na ni zapomněl. Teď mu její přítomnost připomíná chvíli v opuštěném statku. Dokázala ho tenkrát rychle odzbrojit. Přeprala Hasila, který si zakládal na své neporazitelnosti, zvlášť při rvačkách na tanečních zábavách, kdy teklo pivo proudem a on měl velkou výhodu, že bojoval s čistou hlavou.
 
@@ -1716,9 +1651,7 @@ Josef nikdy nezažil nic podobného, spal s Němkou Helgou, pak s vdanou Vlast
 
 Zdá se mu sen ve snu. Leží u kamenného valu, kousek od hraničních kamenů, a spí. Pod hlavou batoh s důležitými dokumenty, automat zavěšený na větvi stromu, opodál pohozená pistole. Ve snu pozoruje malé brouky, ví jaksi samozřejmě, že to je trnoštítec horský, je jimi tak zaujatý, že si ani nevšimne proměny krajiny. Stromy ve vteřině vyrostou, zešednou a uschnou, všude kolem jsou jenom pahýly suchých kmenů. Zvedne hlavu a vidí až k horizontu, kde už je hranice. Neumí si tu změnu vysvětlit. Odtrhne se od malých broučků, kteří mezitím taky zmizí a běží do kopce až k čáře, kde holina pokračuje. Kamení, tu a tam hnědé trsy trávy. Spatří člověka v červené bundě, jde k němu, opírá se o dvě hůlky, jako by lyžoval. Když se ho zeptá, kde jsou a odkud muž přichází, odpoví, že tohle je přece Šumava, on jde od Třístoličníku. A to se nebojíte pohraniční hlídky? Proč bych se měl bát? Zeptá se muž. Co je za rok? Který den? Muž se podívá na hodinky: Prvního října dva tisíce jedenáct. Hasil cítí, že nemůže polknout, cosi se mu vzpříčí v krku a on se dusí. Probudí se a zjistí, že se opravdu dusí. Pokoj je plný kouře, není vidět na krok. Kašle a potácí se k oknu. Hasiči na ulici právě vytahují hadice s vodou. Okolo dav čumilů. Josef se otáčí a hledá C5. Pro hustý dým, který se sem valí zpod dveří, nevidí ani postel, ani její nahá záda. Nezaváhá. Nepřemýšlí, jedná intuitivně. Jako vždycky, když jde o život.
 
-\* \* \*
-
-  
+* * *
 
 KAVÁRNA STOJÍ NAPROTI HOTELU. Její majitel bydlí přímo nad svým královstvím provoněným vanilkou a čerstvě umletou kávou, a tak má možnost z okna ložnice pozorovat dění v ulici, žlutomodré plameny a záchrannou akci. Rychle se obléká, seběhne do suterénu, otevře svůj podnik a všechny hotelové hosty, předčasně probuzené, zmatené a vystrašené, zve dál. „O placení nesmí být ani řeč, jsme přece civilizovaní lidé,“ říká muž, který před lety uvěřil v národní socialismus. Po válce se dušuje, že o vyhlazovacím programu neměl ani tušení. „Současné poměry jsou daleko uspokojivější, hlavně pro obchod,“ dodává mezi přáteli. Jeho hosty bývají často američtí vojáci z nedaleké vojenské základny a hoteliér Kündelmann, který k němu chodívá vždy v poledne na kávu, přečte denní tisk, nejčastěji Süddeutsche Zeitung, ekonomickou rubriku, aby hned nato proseděl hodinku nad šachovou partií s kavárníkem Meyerem. Potom si hoteliér Kündelmann zapálí viržinko a dlouze vypráví o politické situaci v rozdělené Evropě, a to i tehdy, kdy si jeho protihráč odskočí od šachovnice obsloužit hosty. Dá se za určitých okolností tvrdit, že ti dva jsou přátelé. Rozumí se tedy samo sebou, že se v tak těžké chvíli, kterou právě hotel zažívá, kavárník postará o jeho hosty; hoteliér by jistě učinil totéž. Kündelmann i Meyer jsou obyčejní muži z německé střední třídy, žijí v obyčejných domech obyčejného města uprostřed obyčejné středoevropské země. Je obyčejné všední mlhavé ráno druhé poloviny září roku tisíc devět set padesát v neobyčejně živé ulici.
 
@@ -1752,9 +1685,7 @@ Já tě miluju, škyt, Josefe, škyt, s tebou se žádná, škyt, nemůže ani 
 
 „Jenom aby, stačí jeden postarší páreček, co usne s cigárkem v posteli. Zkus na deset minut zadržet dech, stoprocentně to škytání přestane.“
 
-\* \* \*
-
-  
+* * *
 
 JOSEF PŘECHÁZÍ PO POKOJI a mlčí. Kromě rozestlané manželské postele, dřezu s vajglinkem a džbánem na vodu tu stojí u zdi už jenom šatník. Klára ví, že ráno telefonoval, i přes její domluvy, do baráku k Pátému. Od Tondy Vítka se dozvěděl, že bratr Bohumil se zpátky ještě nevrátil.
 
@@ -1844,9 +1775,7 @@ Znovu se otočí, popadne batoh a prudce zavře skříň. Má se k odchodu. Kl
 
 „Ale raději Pátému zavoláme,“ zašeptá Klára, „a dáme si schůzku na neutrální půdě. Někde, kde nebude dřepět ten dvojitý špicl. A přes hranici chci jít s tebou. Odteďka jsem tvůj strážný anděl. A neprotestuj! Pátý mi v tom nemůže zabránit. Ani ty ne… ani ty.“
 
-\* \* \*
-
-  
+* * *
 
 SCHÁZEJÍ SE NEDALEKO Kleinhesseloherského jezera v Anglickém parku, který se rozprostírá od centra Mnichova k jeho severozápadní hranici. Josef s Klárou sem vyrážejí pěšky.
 
@@ -1904,9 +1833,7 @@ Klára se posadí na jednu z laviček a zadívá se do dálky. Na hladině plu
 
 „A stejně s ním půjdu,“ řekne spíš pro sebe, protože ani jeden z mužů ji neslyší, jsou zabráni do plánování nové špionážní akce. Hasil stojí a trpělivě naslouchá, nic si nezapisuje, všechno se snaží zapamatovat. Je už opět ve střehu, hraje svou roli _zpravodajského psa_ na výbornou, bere ji naprosto vážně. Cítí v žilách proudící krev, zrychluje se mu dech a dosud chlapecké, jakoby nedospělé oči, ztvrdnou. U břehu jezera v mnichovském parku stojí agent-chodec B7 Josef Hasil a vedle něho velitel jedné z tajných buněk CIA Jaroslav Kašpar s krycím jménem Pátý. A štíhlá černovláska – C5, jejíž pravé jméno zná jen několik málo lidí. Zafouká silný vítr a opře se do korun javorů a buků.
 
-\* \* \*
-
-  
+* * *
 
 JOSEFA S ANTONÍNEM KUBALOU odveze řidič už odpoledne. Zastavuje nejdřív před stavením a silně troubí. Během chvilky jsou oba venku v plné polní, jak říkají svému vystrojení.
 
@@ -2030,9 +1957,7 @@ Josef se na své společníky podívá a pokývne hlavou.
 
 „Bude teď pár dní v Praze. Uvidíme, co se z toho vyloupne,“ řekne Sup a nakloní se společně s Josefem nad spis.
 
-\* \* \*
-
-  
+* * *
 
 KLÁRA SE ZLOBÍ. Nechce s Josefem mluvit, cítí se ponížená a ura­žená. Jak jen ji mohl nechat v Mnichově? Copak mu jasně neřekla, že bude jeho andělem strážným? Ví, že o něho nesmí přijít. Těžce nesla Kotovu ztrátu, ale ztratit ještě Josefa? Ne, to by bylo příliš. Kdyby se jí někdo zeptal, co na tom malém muži vidí, neuměla by odpovědět. Jediné, co si jasně uvědomuje, je fakt, že v jeho přítomnosti zapomíná na svou roli agentky a cítí se po dlouhé době zas jen zranitelnou ženou, milovanou a milující. Josef je něžný a pozorný, jí to ke štěstí stačí. Konečně má pocit, že může žít obyčejný život vedle obyčejného muže, mít rodinu a všechny hry tajných služeb hodit za hlavu a nezabývat se jimi. Kdyby se tak mohli teď hned sebrat a odjet daleko od toho všeho, co je svazuje a dusí, od hranice. Sní a přitom si velice dobře uvědomuje, že ani jeden z nich nevystoupí z rozjetého vlaku plného informátorů, špionážních fíglů a honiček se střelbou a štěkotem speciálně vycvičených psů.
 
@@ -2158,9 +2083,7 @@ Svléká si mokré šaty, batoh nechává ležet v rohu u postele.
 
 „Až potom. Teď pojď ke mně, ať se tu sama nebojím.“
 
-\* \* \*
-
-  
+* * *
 
 HOTEL PASSAUER WOLF je doslova přecpaný důstojníky americké armády a lidmi od CIC. Od lustru k oknům visí vánoční výzdoba, v rohu stojí stromek s lesklými ozdobami a na barpultu hoří svíčky adventního věnce. Všechny čtyři.
 
@@ -2280,9 +2203,7 @@ Po Luise s dlouhými kaštanovými vlasy opravdu touží snad celé osazenstvo 
 
 „Tak ale fofrem, kamaráde! Nesmí nám zdrhnout.“
 
-\* \* \*
-
-  
+* * *
 
 JOSEF SE NAKLONÍ NAD KLÁRU, aby dosáhl na desku nočního stolku. Nahmatá hodinky a rozespale se na ně podívá. Hodina po poledni. Zmateně pohlédne k oknu. Vidí modré nebe a jiskřící ledové rampouchy visící ze střechy. Přemýšlí. Milovat se mohli hodinu, nejvýš dvě, netuší; čas utíká, aniž mu on nebo jeho milenka věnují pozornost. Prospali celé dopoledne. Zívne. Opatrně se vymotává z deky, aby Kláru neprobudil, a nahý přechází ke stěně s plechovým umyvadlem. Nalévá do něho studenou vodu z konve a opláchne se. Prospat Štědrý den, to se mu ještě nestalo!
 
@@ -2322,9 +2243,7 @@ Dívka pokládá opatrně kufr na zem, levou rukou si přidržuje popruh batohu,
 
 „Jmenuji se Luisa Rauscher, těší mě.“
 
-\* \* \*
-
-  
+* * *
 
 MAŠEK S KASKOU POBÍHAJÍ ULICEMI PASOVA. Rudi Baumgartner se propadl do země. Vědí, že z hotelu Passauer Wolf vyrazil jen několik málo minut před nimi, přesto jim beze stopy unikl. Vracejí se do baru s neblahým tušením, že propásli životní šanci. Kdyby ho sledovali, dovedl by je k agentovi. Mohou ještě teď zjistit, kdo je hlavou místní organizace, koho nasadili estébáci do Bavorska?
 
@@ -2338,9 +2257,7 @@ Galegher jim jde naproti.
 
 Mašek a Kaska vyběhnou do svého pokoje. Během pěti minut mají sbalené věci. Když si Mašek obléká teplý kabát, vyhlédne z okna do ulice. Tam už na ně čeká auto. Neztrácejí čas, prásknou dveřmi a sbíhají dolů. Za pár vteřin po nich zůstane už jen modrý kouř z výfuku a pomalu se rozplyne v mrazivém vzduchu.
 
-\* \* \*
-
-  
+* * *
 
 BĚHEM POZDNÍHO OBĚDA Klára nezavře pusu, klábosí, vyptává se slečny Rauscher na to či ono, jen tak, aby řeč nestála. Josef spíš naslouchá. Zhltne polévku s bílou bavorskou klobásou a teď si pochutnává na pečené huse se zelím. I on chápe, že s tou dívenkou není něco v pořádku, ale nechce si kazit chuť. Z pod slupky jejího krásného vzezření, plachých úsměvů a pohledů, prosakuje strach a zmatek. Připomíná vyplašenou myš, kterou zavřeli v místnosti, a teď se rozhlíží, kterou škvírou by mohla prolézt ven.
 
@@ -2416,9 +2333,7 @@ Josef uskočí stranou, schová se za kmen vysokého smrku a sbíhá z kopce m
 
 Vyhlédne. Rozhodne se rychle. Vyskočí a několika skoky se pouští za uprchlíky. Automat jí vyklouzne z rukou.
 
-\* \* \*
-
-  
+* * *
 
 MAŠEK S KASKOU SE NECHAJÍ vysadit kousek od hraničního přechodu Philippsreut – Strážný. Zamíří k celníkům, kteří stojí u dřevěné boudy a kouří.
 
@@ -2480,9 +2395,7 @@ Mašek vybíhá a s Kaskou rychle nastupují do vozu.
 
 „Jenom klid, musíme si zachovat chladnou hlavu. Bůhví, co se tam vlastně děje. Dělá mi starosti ten Baumgartner. Nechápu, jak mohl tak rychle zmizet.“
 
-\* \* \*
-
-  
+* * *
 
 HASIL SKÁČE Z BOKU NA RUDIHO, který právě zaměřuje. Klára je dobrým terčem. Ujela jí noha a ona sjíždí směrem ke střelci. Najednou se zachytí kotníkem v prohlubni pod sněhem a zůstává ležet bezmocně na zádech, s nohou nepřirozeně ohnutou do strany; marně šátrá rukou v hlubokém sněhu po automatu. Tělo má přetočené do strany.
 
@@ -2608,9 +2521,7 @@ Klára leží se zlomeným kotníkem v nemocnici čtrnáct dní, pak ji pustí 
 
 Je pravděpodobné, že ostraha hranice s Československem je nadále zbytečná. Žádný dvojitý agent se přes ni nepokusí přejít, navíc pro prominentní špiony mají komunisté připravenou daleko pohodlnější cestu, a ta vede přes Vídeň. Tedy, pokud má agent důvěryhodný americký pas.
 
-\* \* \*
-
-  
+* * *
 
 DALŠÍ SETKÁNÍ U KLEINHESSELOHERSKÉHO JEZERA proběhne začátkem února, dva dny před Josefovými narozeninami. Klára jde zavěšená do Josefa, mírně se opírá o hůl. Její kulhavá chůze mu připomíná Vlastičku. Po dlouhé době si na ni vzpomněl. Přijde mu to všechno tak strašně dávno. Co asi Vlastička dělá? A náhle ho napadá, že by se měl víc než o ni strachovat o jejího muže Jaromíra, převáděl přes hranice společně s Pazderkou. Je velice pravděpodobné, že už je StB odhalila. Josef se rozhodne, že se za nimi vypraví na své další cestě.
 
@@ -2650,9 +2561,7 @@ Zastaví se. Stojí proti sobě v záplavě sněhu. Pohladí ho.
 
 Obejme ji. Líbají se dlouho. Ale polibky nepřipomínají touhu zamilovaných, spíš loučení dvou přátel. Možná už v té chvíli tuší, že nad nimi stojí neviditelný kat s ostrou sekyrou, co přetne silné lano, jímž jsou k sobě připoutáni, že je tu mocnější síla, které lidé často říkají osud, aniž vůbec tuší, o čem mluví.
 
-\* \* \*
-
-  
+* * *
 
 OSMÉHO ÚNORA ROKU JEDENAPADESÁT je Josefu Hasilovi dvacet šest let. Tonda Vítek organizuje oslavu v jedné útulné hospůdce nedaleko vilky a Tonda Kubala domlouvá s Pátým, aby nechal z Mnichova přivézt Kláru a z lágru Babenhausen i Josefova bratra Julia. Julius odmítá po Bohumilově smrti přecházet hranici. Tuší, že by byl na řadě. Navíc ho žena prosí tak dlouho, až jí slíbí, že on s převáděním končí.
 
@@ -2756,9 +2665,7 @@ Hasil ví, kde je Květa Malá ubytovaná, jaké má zvyky, s kým se nejčast�
 
 Během pouhého týdne je jasné, že Květa Malá je jen naivní dívenka, zato její nerozlučná kamarádka-dvojče, má spojení s komunisty přímo v lágru, to ona je nastrčená agentka. Podaří se jí do hry vtáhnout i Květu. Nabídne Josefovi spolupráci už pátý den, co se znají, a on svou hru hraje až do konce. Zamilovaný mladík podlehne kouzlu české špionky a stane se adeptem na bolševického špicla. Denně ovšem posílá hlášení do Mnichova. Sedmý den si pro Květu i Drahuši přijíždějí dva muži od CIC. Nikdo z uprchlíků si ničeho nevšimne, Josef se s oběma děvčaty prochází v lesíku nedaleko uprchlického tábora. Obě jsou natolik překvapené, že se nezmohou na odpor. Jakmile je odvezou, zmizí i on. Vyrazí za Pátým a doufá, že se setká s Klárou.
 
-\* \* \*
-
-  
+* * *
 
 PRVNÍ MĚSÍCE ROKU 1951 SE SITUACE na hranicích vyostřuje. Hraničáři z řad SNB jsou nahrazeni mladými vojáky základní služby Pohraniční stráže. Všichni jsou proletářského původu, nejlépe z komunistických rodin. Je stále těžší získávat informace. Střelba se stává neodmyslitelnou součástí práce kurýrů. Proslýchá se, že komunisté chystají budování plotů z ostnatých drátů v místech, kde dochází k nejčastějším přestřelkám. Začínají už dokonce kácet celé dlouhé průseky lesů, jen proto, aby mohli lépe kontrolovat pohraniční pásmo.
 
@@ -2826,9 +2733,7 @@ Josef pochopí, že už před ní další cestu neutají. V tu chvíli ví, že
 
 Oba se rozesmějí. Josef je šťastný.
 
-\* \* \*
-
-  
+* * *
 
 KLÁRA DOSTÁVÁ ÚKOL V PASOVĚ. Vymůže si u Eckerta, aby mohla vzít sebou i kurýra Hasila. Ubytují se v hotelu Passauer Wolf. Když Klára odejde, sedne si Josef v restauraci a popíjí kávu. Zahlédne rozespalého Kasku, mávne na něho. Přisedne si.
 
@@ -2912,9 +2817,7 @@ Ticho naruší až Hasil:
 
 „Proč by ne, Pepíku, skoč tam a přesvědč se sám,“ odpoví mu Mašek a labužnicky vtáhne kouř.
 
-\* \* \*
-
-  
+* * *
 
 ECKERT NEMŮŽE VĚDĚT, že si jeho nejlepší agentka bere dovolenou ne proto, aby se odjela rekreovat, ale z důvodů spasitelských a ochranitelských. Dokáže před ním utajit své pravé úmysly, dokonce setřese i chlápka, který má dohlédnout, aby opravdu vklouzla do termálních pramenů, co mají regenerovat svaly a vrátit tělu chuť do života. Sice do Bad Füssingu nedaleko Pasova dojela, ale jenom proto, aby svého průvodce zmátla. Němci tu v roce 1938 vrtem hlubokým jeden kilometr sice neobjevili ropu, jak zamýšleli, ale zato uvolnili horké sirnaté zřídlo. Američané sem po válce umístili první improvizovaný lázeňský provoz pro své zaměstnance, tedy pro důstojníky, diplomaty i agenty. Ti jsou do sirných vod posíláni, aby se občerstvili a měli dost elánu do dalších akcí. Kláru pobaví název „Pearl-bath“, Pearlova vana. Američané totiž nazývají lázně podle Davida Pearla, ředitele UNRA. Je to výstižné, protože obyčejní Němci sem přístup nemají.
 
@@ -2966,9 +2869,7 @@ Hasil ji nechá spát. Zatímco oba Tondové odejdou, on vybere v okolí dvě s
 
 Nedozvědí se, že jim manželka Pátého zachránila život. Kdyby neodjela vozem na večírek, byli by přecházeli trasou naplánovanou šéfem politického oddělení Mikulášem Pátkem. Ten vždy připravuje dvě možnosti, kudy se kurýři mohou vydat. Teď jedna trasa vedla z Trojmezí na Smrčinu a dál podél Medvědího potoka, druhá přes Srnčí hřbet u Mariánských lázní. Pánkovi muselo být jasné, že Hasil půjde raději po trase, kterou důvěrně zná. Od večera mají pohraničníci vyhlášený poplach. Čekají schovaní v mokřadech u Smrčiny, tady jim konečně obávaný agent-chodec neunikne. Nedočkají se.
 
-\* \* \*
-
-  
+* * *
 
 KLÁRA SI ZAPALUJE DALŠÍ CIGARETU, pozoruje les za chalupou. Stromy jsou zbarvené do okrových a temně rudých valérů. Mraky se pohybují nízko nad zemí. V silném mrazivém větru poletuje listí.
 
@@ -3022,9 +2923,7 @@ Chvíli je ticho.
 
 Je to naposledy, kdy se Rozálie Hasilová setkává se synem.
 
-\* \* \*
-
-  
+* * *
 
 ČEKÁNÍ NA NÁVRAT Tondy Vítka si Hasil s Kubalou krátí hraním karet. Klára mlčky sedí u okna a pozoruje příjezdovou cestu. Vítek se objeví až těsně po poledni. Přichází pěšky od lesa, prolézá stodolou a vesele vpadne do vyhřáté kuchyně.
 

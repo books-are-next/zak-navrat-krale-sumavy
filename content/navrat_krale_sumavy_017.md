@@ -1,5 +1,6 @@
 ---
+title: DOSLOV
 contentType: prose
 ---
 
-DOSLOV
+
