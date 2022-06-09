@@ -2623,6 +2623,8 @@ Zasměje se, ale ten smích zní dutě. Klára pochopí, že má Josef strach. O
 
 Vstává. Protře si zarudlé oči. Rozevře pomalu náruč, a než Kláru obejme, zazpívá společně s hlasem zpěváka a herce Oldřicha Nového z gramofonové desky:
 
+  
+
 _„Jen pro ten dnešní den  
 stojí za to žít,  
 jen klid svůj tichý mít,  
@@ -2634,6 +2636,8 @@ kdy štěstí potkáváš.
 Nesmíš se ptát, co bylo včera,  
 bude zítra snad, jen dnešek uchopit a pochopit,  
 že nejkrásnější den je dnešní den…“_
+
+  
 
 Brzy ráno po oslavě všude vládne ticho a tma. Zatímco ostatní ještě vyspávají, nasedne Pátý do svého vozu, vedle něho se na zadním sedadle choulí nevyspalý Josef Hasil. Řidič Čermák se mrkne do zpětného zrcátka a sešlápne plyn.
 
