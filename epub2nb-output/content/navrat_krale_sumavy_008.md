@@ -1,14 +1,7 @@
 ---
+title: ''
 contentType: prose
 ---
-
-  
-
-  
-
-  
-
-  
 
   
 
@@ -80,9 +73,7 @@ Mladíkova ústa se křivě usmějí a oči se zas rozhoří.
 
 „To pochybuju… Dobrá. Jsem ňákej Hasil. Pepa Hasil. A teď už fakt zmizte, než se naseru a sundám kvér.“
 
-\* \* \*
-
-  
+* * *
 
 STOJÍ U MALÉHO OKNA a pozoruje palouk za hájovnou. Přes zimu se sem stahují jeleni. Ve vysokých závějích těžko hledají potravu, sníh jim sahá až po břicha, proto na úzký dřevěný parapet dává každé ráno jablka, malá zakrslá pláňata, co rostou všude kolem opuštěných chalup.
 
@@ -150,19 +141,19 @@ A on ji objímá a taje v její náruči jako rampouch, co visí ze střechy.
 
 „Josífku, pojď, ohřejeme vodu a já tě pořádně vydrhnu. Z toho věčnýho honění po kopcích jsi celý upocený. Najíš se, určitě ti vyhládlo. Pak si mě odvedeš do duchen, co říkáš?“
 
-\* \* \*
-
-  
+* * *
 
 ZE ŽELEZNÉ RUDY JEDE JOSEF DO ZÁBRDÍ. Chce jen v rychlosti pozdravit matku Rozálii, než se zastaví za starším bratrem Bohumilem. Před týdnem od něho dostal vzkaz na pohlednici, aby se určitě co nejdřív objevil. Bohouš s ním potřebuje vyřídit životně důležitý problém. Josef neví, co by tím problémem mohlo být. Že by onemocněla máma? Netuší.
 
 Za jízdy se v myšlenkách vrací k řádkům od bratra.
 
-Josef,
+  
 
-potřebuju od tebe pomoct. Je to důležité. Co nejdřív. Mám problém! Pomůžeš? Zavolej mi nebo se raději rovnou zastav!
+> _Josef,_
 
-Bohouš
+> _potřebuju od tebe pomoct. Je to důležité. Co nejdřív. Mám problém! Pomůžeš? Zavolej mi nebo se raději rovnou zastav!_
+
+> _Bohouš_
 
 Nechápe, jak by mohl bratrovi pomoci, vždycky to bývalo naopak. Je nerozhodný, má-li jet nejdřív za bratrem, nebo za Vlastičkou. Zvítězí Vlastička.
 
@@ -274,9 +265,7 @@ Josef si vzpomene, jak brzy v ranní mlze poprvé ve svém životě převáděl
 
 Bohumil žije v domku na konci Záblatí v čísle 28. Často se u něho po setmění objevují lidé, kteří jsou na útěku. Nikdy nikoho neodmítne.
 
-\* \* \*
-
-  
+* * *
 
 PLUKOVNÍK KOT přes půldruhé hodiny čeká na návrat strážmistra Hasila, a ten nikde. Už včera mu volal velitel železnorudského útvaru Kašpar. Neřekl přesně, co se stalo, ale byl podrážděný a dal jasně najevo, že by Hasila nejradši zabil.
 
@@ -354,9 +343,7 @@ Hasil se na Kota překvapeně podívá. Za tyhle řeči půjde sedět, jestli si
 
 Josef oněmí, ne Vlastička to být nemohla, k ní dorazil už bez balíčku, ale Růžena nebo Máňa. Růženu potkal, když odjížděl od Máni, chvíli s ní mluvil, pohlídala mu motorku, když si potřeboval odskočit a balíček byl v kabele, neměl ho tedy u sebe. Za Marií se zastavil už předtím, ta měla moře času prohlédnout mu věci. Proč by to ale dělala? Jedna z nich se opravdu mohla v nestřeženém okamžiku podívat. Sakra!
 
-\* \* \*
-
-  
+* * *
 
 VLASTA PŘÍŠTÍ DEN MARNĚ ČEKÁ nejen na manžela, ale i na příchod hladových jelenů. Hodinu prostojí u okna s připravenou ošatkou jablek. Nakonec to vzdá a pustí se do práce. Uklízí, naseká a nanosí dřevo, zalátá proděravělé paty ponožek a nakonec zapálí nad stolem petrolejku, aby vyluštila křížovku a přečetla několik stran levného románku, který dostala od Josífka. Spát půjde pozdě.
 
@@ -580,9 +567,7 @@ Mozolnatými dlaněmi mu přejížděla po zádech. Prsty zajížděly do krati�
 
 Přistoupila blíž k vaně. Uchopil ji za boky a ústy nasával její ženství.
 
-\* \* \*
-
-  
+* * *
 
 RÁNO MÁ JOSEF SLUŽBU dozorčího. Před polednem pomáhá v ku­chyni s obědem. Pochůzka k čáře na něho a strážmistra Vyletu vychází až v podvečer. Celý den musí rodina Bohumilova kamaráda čekat schovaná ve stodole opuštěného Böhmova statku.
 
@@ -622,9 +607,7 @@ Po večerech hraje s ostatními na pokoji mariáš. Přitom si ho stále dobír
 
 Ještě víc se sblíží se strážmistrem Vyletou. Ten má nesnadný úkol: musí sehnat dostatek zásob pro celý útvar. Jezdí nejen do Krumlova, ale až do Budějovic pro proviant a občas se mu podaří sehnat i něco na přilepšenou. Šumavské vesnice jsou po válce mizerně zásobované, ani na potravinové lístky nelze sehnat všechno.
 
-\* \* \*
-
-  
+* * *
 
 VLASTA STOJÍ U OKNA. Josífka přes měsíc neviděla, vzpomíná, jak v pátek vstal brzy ráno, byla ještě tma, oblékl si uniformu a byl pryč.
 
@@ -644,9 +627,7 @@ Za půl hodiny už je kolem ticho, jako by byl výjev za oknem pouhým snem, mlh
 
 Ráno vyjde ven. Stopa po pneumatikách se v dvojitém provedení zřetelně rýsuje na cestě ke kůlně a zpět. Na dřevěných vratech visí řetěz a na něm těžký zámek, zalomcuje jím, drží pevně. Vrací se do hájovny, uvaří vodu a zalije si cikorku. Zakousne dva dny starý chléb. Dívá se oknem k lesu a čeká, sama neví na co.
 
-\* \* \*
-
-  
+* * *
 
 EGON BRODSKÝ SEDÍ ZHROUCENÝ V KŘESLE. Jeho protějšek mu podá sklenici vody, čeká, až se Brodský vzchopí. Kurt Taub, dnes americký občan seržant Frank Taylor, pochází z brněnské židovské rodiny poslance německé sociální demokracie Sigfrieda Tauba.
 
@@ -734,9 +715,7 @@ Sáhne po něm a chvatně jej roztrhá na malé kousíčky.
 
 Vstane, přistoupí k oknu, zalomcuje kovovou kličkou, otevře a útržky vypustí do chladného vzduchu. Vítr si je bere, hraje si s nimi a ony se pomalu snášejí do ulice, jako chomáčky peří.
 
-\* \* \*
-
-  
+* * *
 
 KATEK ALIAS PODPLUKOVNÍK CHARLES ECKERT dokuřuje dnes již patnáctou camelku a automaticky vytahuje z krabičky další. Připaluje si benzinovým zapalovačem, vyfukuje kouř a pak se teprve obrací k Taylorovi.
 
@@ -780,9 +759,7 @@ Eckert se rozvalí v křesle, ve kterém včera seděl unavený rada Brodský, 
 
 „Domnívám se, že je to přesně náš člověk. Bývalý partyzán, dnes agent Státní bezpečnosti. Prý má informace o smrti Jana Masaryka. Tvrdí, v souladu s vámi, podplukovníku, že šlo o politickou vraždu. A co je pro nás zásadní, ten člověk prý byl u toho.“
 
-\* \* \*
-
-  
+* * *
 
 KOT NEMŮŽE USNOUT. Myšlenky se mu honí hlavou a připomínají divoká mračna. Vstane a jen v khaki trenýrkách dojde k oknu. Dívá se do temné noci. Zapaluje si cigaretu. Už chce zalehnout, když si dole u pumpy všimne nápadného pohybu.
 
@@ -890,9 +867,7 @@ Hasila posílá s balíčkem už brzy ráno, vzpomene si na její slova: Pozít
 
 S Vyletou si už nepromluví. Za necelou hodinu se na dvoře objeví dvě auta. Jedno od Státní bezpečnosti, druhé z krumlovského útvaru. Zahlédne je z okna. Zatímco ozbrojení muži vbíhají do chodby, plukovník Kot vytáhne pistoli. Chladnou hlaveň vloží do úst a stiskne spoušť.
 
-\* \* \*
-
-  
+* * *
 
 JAROMÍR SE NEUKÁŽE. Vlastina fantazie vytvoří nespočetně představ, v nichž je přepadený, zraněný, zmrzlý s přelámanými kostmi…
 
@@ -1104,9 +1079,7 @@ Vypijí první sklenku a nalijí druhou.
 
 „Škoda každýho dobrýho člověka,“ dodá Pazderka.
 
-\* \* \*
-
-  
+* * *
 
 DO SALADÍNA DORAZÍ PO TŘETÍ HODINĚ RÁNO. Motorku nechá raději u chaty a seběhne dolů k chalupám, kolem stodoly starého Flašky. Dál přes louku k dalšímu stavení, podél plotu, přeskočí strouhu a pak výš do stráně. Marie žije s rodiči na protější straně vsi. Všude vládne klid, tu a tam z mraků zabliká hvězda. Josef nepotřebuje světlo, zná cestu i poslepu.
 
@@ -1196,9 +1169,7 @@ Málokdo dojedl.
 
 Nikoho ani na chvíli nenapadne, že Míčko vůbec nevečeřel, nenápadně celou porci šoupnul do kbelíku na odpadky. Ani kdyby chtěl, nebyl by schopný polknout jediné sousto. Jeho netrápí zapáchající párek ve střevech ani vodnatá kaše. Míčka trápí svědomí.
 
-\* \* \*
-
-  
+* * *
 
 PĚT MINUT PO PŮLNOCI UŽ JDOU OBA VE TMĚ mezi baráky a směřují silnicí nahoru k loukám a dál pod les. Vědí, že než obejdou jednotlivá stanoviště, uběhne půlka noci a oni se do postele dostanou až nad ránem. Míčko popotahuje, utírá si nos rukávem a co chvíli zabloudí dlaní k břichu. Hasil se tváří, že nic nevidí. Mají s sebou černého ovčáckého psa, na kterého místo povelů krátce hvízdá. Hvězdy nesvítí. Je zataženo a v mrazivém vzduchu Josef cítí, snad už naposledy, sněhovou přeháňku, možná déšť se sněhem.
 
@@ -1262,9 +1233,7 @@ Hasil sebou trhne, ale rychle se ovládne.
 
 „Hovno, Mlíčňáku, služba je služba. Jen pěkně ven. Jednou ses dal na vojnu, tak bojuj. Doufám, že máš s sebou dost papíru, myslím, že ho budeš ještě potřebovat.“
 
-\* \* \*
-
-  
+* * *
 
 MARIE SPÍ NEKLIDNÝM SPÁNKEM. Každou chvíli se v posteli posadí a dívá se do tmy. Má divný svíravý pocit. Něco v jejím životě je špatně. Že by vztah s Josefem? Táta má možná pravdu, když se mu Hasil coby budoucí zeť nezamlouvá. Jenže táta je ze staré školy. Dnes je jiná doba. Je do Josefa zamilovaná. Chce se vdát, mít s ním děti. Žít jako ostatní ženské ve vsi.
 
@@ -1286,9 +1255,7 @@ Všechno kolem se ještě topí v tmavé šedi. Jde na zápraží a dívá se 
 
 „Jeleny? Ty máš ale divný otázky. A běž už. Uvařím čaj a pak se pustíme do práce. Zvířata jsou nějaký neklidný.“
 
-\* \* \*
-
-  
+* * *
 
 RÁNO VEJDE JOSEF CELÝ ROZLÁMANÝ DO JÍDELNY. Pozdraví se s ostatními, rychle vypije hrnek čehosi, co má být bílé kafe, zakousne se do rohlíku a mrkne na hodinky.
 
@@ -1366,9 +1333,7 @@ Hasil si ho dál nevšímá. Má o čem přemýšlet. Něco jiného je společn
 
 „Čert aby to spral…“
 
-\* \* \*
-
-  
+* * *
 
 MARIE POMÁHÁ MATCE NAKRMIT ZVÍŘATA, podestlat, podojit a pak vyprat cíchy. Práce je dost i přesto, že jarní setba je teprve čeká.
 
@@ -1388,9 +1353,7 @@ Přisedne na štokrle a dá se do práce. Za necelou půlhodinku už může pol
 
 Na sádle opraží cibuli, nakrájí mrkev, celer a trochu petržele. Do velkého hrnce pak z pánve přesune zpěněnou cibulku, vloží slepici a obloží ji zeleninou. Zalije horkou vodou, ještě nasype hrst majoránky a osolí. Hrnec přikryje poklicí. Podívá se do kamen a přiloží tři krátká polínka. Teď má dost času na knedlíky. Ze slepice bude dobrá mastná polévka. Pak ji udělá na paprice, její oblíbené jídlo. Škoda, že nebude moct nandat na talíř i Josefovi.
 
-\* \* \*
-
-  
+* * *
 
 HNED PO VEČEŘI SE VYTRATÍ. Ví, že noční službu má Vyleta a ten ho nepráskne. Předem se s ním domluví. Vyleta žije v domnění, že Hasil jde za jednou ze svých milenek. A není daleko od pravdy, on opravdu jde za milenkou, ovšem nebožtíka Kota.
 
@@ -1518,9 +1481,7 @@ Stromy stojí kolem jako němé sochy, jen tu a tam rozkolébá vítr jejich ko
 
 Hasil si všimne muže s orlím nosem, jediný stojí a opírá se o kulatinu. Dívá se Josefovi do očí. Nepříjemný, znepokojivý a podezřívavý pohled. Ten hubený muž připomíná šelmu vyrušenou jiným predátorem.
 
-\* \* \*
-
-  
+* * *
 
 SEDÍ SKRYTÍ ZA KAMENNOU HRADBOU a sledují protější svah, kde už je Německo. Na první pohled klid, nikde ani živáčka. Hasil raději vyčkává. Krajčírovič zírá do země, něco si poslepu zapisuje špačkem tužky do úzkého zápisníku. Prudce se otočí. Měsíc ozáří tvář. V jeho pohledu Josef zahlédne zoufalé odhodlání sebevraha.
 
@@ -1550,9 +1511,7 @@ Josef se stěží ovládá.
 
 „O noci z devátýho na desátýho března v Černínském paláci…“
 
-\* \* \*
-
-  
+* * *
 
 HASILOVI SE ZVEDÁ ŽALUDEK, jen si vzpomene na detaily Krajčírovičova vypravování. Ministr Masaryk byl nejoblíbenějším československým politikem, lidé ho měli rádi. Navíc zosobňoval svým jménem to nejlepší, v co věřili, hlavně svého otce, zakladatele republiky. Tři dny po jeho překvapivé smrti, kterou už dopoledne po osudné noci označí ministr vnitra Nosek za jasnou sebevraždu, se s ním loučí statisíce občanů, truchlí celý národ. Josef na konci války pomáhal partyzánům, ale to byla jiná sorta lidí, než jsou tihle, které má dostat ze země. Aspoň v to věří. Raději se zvedá.
 
@@ -1566,9 +1525,7 @@ Hasil sedí na sedadle spolujezdce a mlčí. Je ponořený do vlastních myšle
 
 Josef tuší už nyní, že se dostává dovnitř, do silného víru, že ho události nenechají stát někde na okraji, v bezpečí. Až příliš vniká pod nános hesel a vykřičníků a začíná si uvědomovat, že to, v čem se celá země ocitla, není mírové budování, ale příprava na novou válku, vlastně… válka už tady je. Studená, nelítostná, vedená lidmi proti vlastním lidem, proti neviditelnému nepříteli, proti všem, zároveň proti nikomu, jako by všichni seděli na letícím kolotoči, který stíná hlavy… Z bezstarostného strážmistra SNB se pomalu, ale jistě stává někdo docela jiný… Už tím, že bere peníze od kapitalistů, už tím, že převádí partyzány – a je jedno, jestli jsou agenty té nebo oné strany – si podepisuje ortel nad svým dalším životem. Teď už není důležité, co cítí, jak bude přemýšlet, jestli uvědoměle nebo ne, jestli se ožení a bude spořádaným otcem… Rozhodne však cosi mimo něj, ne on sám za sebe, to vnější tlak vniká ušima, očima, póry do jeho těla a tam se začíná rozpínat. Připravuje se, jako nějaký vetřelec, aby se naplno projevil po zážitcích z výslechů, z lágru, z útěku. Až pak se z něho stane ten nebezpečný nepřítel, vyhlášený agent-chodec, Král Šumavy. A šílenství dosáhne vrcholu poté, co před ním rozstřílejí samopaly jeho bratra Bohouše… Poslední kapka padající do moře…
 
-\* \* \*
-
-  
+* * *
 
 TŘICÁTÉHO BŘEZNA nastupuje Hasil do českokrumlovské ne­mocnice. Budou mu operovat křečové žíly. Po posledním přechodu se nemohl zbavit bolestivých křečí v lýtku. Od té noci uplynuly pouhé čtyři dny, ale jemu připadá, že uběhly celé týdny.
 
@@ -1578,9 +1535,7 @@ Společně s Bohoušem plánují přechody hranic rodin, které potřebují zmi
 
 Hasil netuší, že se s Annou Bezecnou brzy setká.
 
-\* \* \*
-
-  
+* * *
 
 MARIE VÁVROVÁ S HASILEM OTĚHOTNÍ. On dostává častěji volno, aby mohl zařídit vše potřebné ke svatbě. Starý Vávra příliš nadšený není, ale co může dělat. Doba je těžká a on nakonec rezignuje. Hlavně že jeho dcera nezůstane s dítětem sama. Josef jezdívá na své motorce, kterou koupil v červnu od krumlovského zahradníka Szekaly za třicet čtyři tisíce korun. Půjčil si od sestry Žofie. Přes šumavské kopce ze Zvonkové do Saladína a zpátky. Jeho cesty do Železné Rudy jsou dávno minulostí a tajemná Kotova přítelkyně zmizela ze světa stejně rychle, jako se objevila. Nikdo už Hasila nekontaktuje a on pomalu zapomíná na to, že na Velký pátek někoho převedl. Nedávná minulost o sobě dá vědět z jiné strany, než by čekal.
 
@@ -1674,9 +1629,7 @@ Když odpoledne nastoupí Hasil a Vyleta společně do služby, Vyleta se rozhl
 
 „My všichni a už brzo, kamaráde, hodně brzo, to si pamatuj. A možná už jsme chycení, ale nevšimli jsme si toho. Tím hůř pro nás.“
 
-\* \* \*
-
-  
+* * *
 
 CHARLES ECKERT SE SEJDE S FRANKEM TAYLOREM v malé kavárně na rohu Neupfarrplatz a Residenzstrasse. Popíjejí kávu, Eckert kouří bez šlukování jednu cigaretu za druhou. Kromě této bizarní dvojice, proti sobě sedí pořízek v nejlepších letech a malý skrček, zeje místnost prázdnotou.
 
@@ -1714,9 +1667,7 @@ Eckert praští dlaní do stolu. Cigareta mu vypadává z prstů, přistane na 
 
 „Dám to na starost Šedům nebo Kašparovi, mají pár schopných lidí.“
 
-\* \* \*
-
-  
+* * *
 
 HASIL JE VE SLUŽBĚ, má hlídat úsek nad Böhmovým statkem. Teď chodí do služeb nepřetržitě. Volno nedostane nikdo. Jenom občas na tancovačku ve vesnici, ale odjet na několik dní pryč je nemožné. Dvojice se psem obcházejí dnem i nocí mezi jednotlivými hlídkami, které leží v zákrytu a sledují cesty, otevřenou krajinu nebo samotnou čáru. Velení vyhlašuje zostřený režim.
 
@@ -1762,15 +1713,11 @@ Hasil praští rozevřenou dlaní do stolu.
 
 „Dobrá,“ Josef vstane a nakročí ke dveřím. „Vrátím se sem asi tak za dvě hodiny. Přinesu, co najdu v kuchyni. Pak si sednu a vy mi všechno řeknete. Teď tu buďte v tichosti. Jestli vás tady někdo objeví, nepomůže vám už nikdo, ani já ne.“
 
-\* \* \*
-
-  
+* * *
 
 MARIE VSTÁVÁ JAKO VŽDYCKY, v pět ráno, aby nakrmila a poklidila. Všechno s dvojnásobnou námahou. Vyplašeně sleduje rostoucí břicho a ruku v ruce s bříškem roste i panika. Josefa neviděla celé dva měsíce. Občas si zavolají, to když je na úřadě ve městě a dostane se k telefonu, nebo si nechávají vzkazy. On tvrdí, že mají zostřený režim, že volno teď nedostává nikdo. Jí ta slova znějí jako výmluva. Co když si našel nějakou jinou? Trápí se takovými myšlenkami čím dál víc a její vzkazy nabývají na naléhavosti, telefonické hovory drnčí napětím, až se vždy rozpláče, a on ji na tu dálku utěšuje a ujišťuje, že si ji opravdu vezme, že budou žít už napořád spolu, jen ať neblázní. Noviny jsou plné výhružných hesel – vykřičníky ubíjejí všechny reakcionáře, špiony a narušitele, kdekdo je najednou zrádce, třebaže ještě před nedávnem se o něm psalo jako o hrdinovi protifašistického odboje. Marie tomu nerozumí, ani důvodům, proč by za ní její Josef nesměl jezdit, když je přece otcem dítěte, které v sobě nosí. Pocit osamění a prázdnoty je nesnesitelný. Bloumá v myšlenkách bůhví kde a každou chvíli se přistihne, že stojí, sedí nebo leží a brečí a brečí, jaksi samovolně, jako by slzy byly jedinou její přirozeností, součástí jejího údělu. Tehdy by i přísahala, že propláče celý život, že nic víc než slzavé údolí plné chladu a neporozumění ji stejně nečeká. Unavená, zmatená a nešťastně zamilovaná, pořád zamilovaná do příslušníka Sboru národní bezpečnosti, do hraničáře, sympatického muže s klukovskýma očima. A možná by stačilo jedno jeho objetí, pohlazení a všechny chmury by byly pryč, tak snadné to může být. Ale dějinný skok takové, jako je ona, vrhl do stavu úzkosti. Marie, krásná a plná života, chce vlastní šťastnější život. Marie se však nevzdá… ničeho… nikoho…, ani Josefa ne…
 
-\* \* \*
-
-  
+* * *
 
 NOVÉ VELENÍ NASTOLUJE NOVÝ ŘÁD. Nepřetržité hlídky, hodiny a hodiny ležení a pozorování krajiny, samopal stále v pohotovosti, výcvik psů, útočení a trhání.
 
@@ -1868,9 +1815,7 @@ Bohumil se obrátí k bratrovi a obejme ho kolem ramen.
 
 „Platí. Zajeď za Marií, že dorazím zítra kolem poledne. Slíbil jsem jí, že přijedu už dneska, tak jí řekni, že mě nepustili.“
 
-\* \* \*
-
-  
+* * *
 
 „SEJDEME SE U NOVOTNÝHO. Pak to vezmeme nahoru ke Smrčině a k Plechýmu, co říkáš?“
 
@@ -1946,17 +1891,13 @@ Vyleta se rozesměje, pochopí Hasilův plán. Josef se vymaní z dívčina obj
 
 Lijavec. Hasil se modlí, aby jeho plán vyšel. Vzhledem k tomu, že je jmenovaný velitelem hlídky, mohl by Malina jeho přání vyslyšet. Pokud ne, je všechno ztracené.
 
-\* \* \*
-
-  
+* * *
 
 LIMA PRÁVĚ KONČÍ SLUŽBU DOZORČÍHO. Sloužil od jedné hodiny odpoledne a teď bude hodina po půlnoci. Před necelými dvaceti minutami probudil strážmistra Malinu, ale Hasilova postel je prázdná. „Sakra, zas někde prohání holky, proutník jeden,“ zakleje a vrací se na stanoviště.
 
 Za pět minut jedna a Josef se objevuje před dozorčím. Je promočený, samopal přes rameno. Malina sestupuje ze schodů jen ve stejnokroji, bez pláště a beze zbraně. Oba se podepisují, společně s další nastupující hlídkou, do služební knihy, zatímco čtyři strážmistři se vracejí a mizí v chodbě k ubikacím. Lima předává službu Langovi, ten za první hlídkou zamyká vchodové dveře, usedá ke stolku. Hasil s Malinou zůstávají stát ve stínu v chodbě. Hasil cosi šeptá Malinovi do ucha, ten jen přikývne a mizí zpět na pokoj. Tak, jak je, opět uléhá do postele a probudí se až před sedmou. V uniformě pak seběhne dolů, podepíše sebe i Hasila do služební knihy s tím, že se před chvilkou vrátili z pochůzky, vyzvedne si snídani a půjde si zas lehnout. Lang si nevšimne, že na noční hlídku vůbec nenastoupil. Malina je sice nenápadný, ale jedny oči jej sledují a tuší, že něco není úplně tak, jak by mělo být. Kvůli těm očím bude muset za osmnáct dní u výslechu v Českých Budějovicích kápnout božskou.
 
-\* \* \*
-
-  
+* * *
 
 SVĚTLA OZÁŘÍ PŘÍSTŘEŠEK. Vypne startér a mašinu zatlačí do roští. Třikrát houkne jako sova, krátce. Na cestu se vynoří postava s širokými rameny.
 
@@ -2202,9 +2143,7 @@ Jakmile zmizí v ohybu cesty, Josef si oblékne plášť, připne opasek, zvedn
 
 Tam nahoře, někde nad ním se tyčí Třístoličník, maják mezi pevninou bavorského břehu a Československem zmítaným komunistickou bouří.
 
-\* \* \*
-
-  
+* * *
 
 JOSEF PADÁ ÚNAVOU, ztratí pojem o čase i prostoru. Mlha mu zalézá pod nehty, zaplní uši. Nepříjemně mží. Drobný déšť proniká za košili, do bot. Má ho plné oči. Prodírá se lesem po svahu dolů. Dorazí na cestu a po dvou hodinách se konečně vymotá z lesa na pastviny s ostrůvky sněhu. V dálce před sebou tuší obrysy stavení. Jde blíž. Je žíznivý a hladový, připadá si jako štvané zvíře.
 
@@ -2252,8 +2191,8 @@ Rumun pohlédne na svou ženu a pokrčí rameny.
 
 Josef opře lokty o stůl. Padá mu hlava. Položí ji na ruce a usne. Probudí ho až hlídka SNB z Nového Údolí. Strážmistr Řezáč Hasila odzbrojí a vyslechne. Neuvěří, že zabloudil, zvlášť poté, co spatří zásobník. Řezáč má ve věci jasno, Josef chtěl utéct za hranice. Nasadí mu želízka. Hasil je zatčen. Hlídka jej odváží do Stožce k dalšímu výslechu.
 
-[^1]: Pojďte oba se mnou na policejní stanici. Ale oba! Rychle! Rychle! Zůstaňte stát! Zatracenej Čechu, co si myslíš, kdo jsi? Stůj, nebo střelím! _Pozn. red._
+_[^1] Pojďte oba se mnou na policejní stanici. Ale oba! Rychle! Rychle! Zůstaňte stát! Zatracenej Čechu, co si myslíš, kdo jsi? Stůj, nebo střelím! _Pozn. red.__
 
-[^2]: Ruce vzhůru! _Pozn. red._
+_[^2] Ruce vzhůru! _Pozn. red.__
 
-[^3]: Sundej si opasek a odhoď brašnu. Ihned! _Pozn. red._
+_[^3] Sundej si opasek a odhoď brašnu. Ihned! _Pozn. red.__

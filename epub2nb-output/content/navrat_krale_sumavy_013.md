@@ -1,6 +1,6 @@
 ---
+title: Část čtvrtáOPONA SE ZATAHUJE
 contentType: prose
 ---
 
-Část čtvrtá  
-OPONA SE ZATAHUJE
+

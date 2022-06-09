@@ -1,6 +1,6 @@
 ---
+title: Část prvníNA ČÁŘE
 contentType: prose
 ---
 
-Část první  
-NA ČÁŘE
+

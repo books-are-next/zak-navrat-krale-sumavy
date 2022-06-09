@@ -1,14 +1,7 @@
 ---
+title: ''
 contentType: prose
 ---
-
-  
-
-  
-
-  
-
-  
 
   
 

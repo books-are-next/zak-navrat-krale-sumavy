@@ -1,14 +1,7 @@
 ---
+title: ''
 contentType: prose
 ---
-
-  
-
-  
-
-  
-
-  
 
   
 
@@ -50,9 +43,7 @@ Josef je zmatený. Mlčí. Netuší, odkud se mohl vrchní strážmistr tak rych
 
 „Německý pohraniční orgán z Haidmühle, jistý Hossmann, mi k večeru volal na útvar a tvrdil, že vás dnes po čtvrté hodině odpoledne zadržel nedaleko obce Lackenhäuser, tedy na německém území. A vy jste si odtud odnesl malý suvenýr. Je to tak?“
 
-\* \* \*
-
-  
+* * *
 
 21\. ŘÍJNA, 5.30, STOŽEC
 
@@ -76,9 +67,7 @@ Podhola se rozesměje, ale Hasil dořekne:
 
 „… anebo vy špionem Západu.“
 
-\* \* \*
-
-  
+* * *
 
 21\. ŘÍJNA, 14.00, ČESKÉ BUDĚJOVICE
 
@@ -162,15 +151,15 @@ A Josefovi se honí hlavou procesí myšlenek. Je mu jasné, že chtějí, aby 
 
 Na konci výslechu Josef bez přečtení podepíše svou výpověď i několik průklepových kopií. Netuší, že vyšetřovatel do spisu připíše:
 
-Přitěžující okolnosti jsou, že strážm. Hasil spáchal čin ve stavu střízlivém, v úmyslu předem uváženém a zřejmém – prchnouti do zahraničí.
+  
+
+_Přitěžující okolnosti jsou, že strážm. Hasil spáchal čin ve stavu střízlivém, v úmyslu předem uváženém a zřejmém – prchnouti do zahraničí._
 
 _Polehčující okolnost jest, že v posledním okamžiku si uvědomil své nečestné jednání a z území Bavorska se vrátil i přes odpor německého pohraničního orgána._
 
 _V šetření pohnutek strážm. Hasila k útěku do zahraničí se dále pokračuje._
 
-\* \* \*
-
-  
+* * *
 
 22\. ŘÍJNA, 03.25, JOSEFŮV DŮL
 
@@ -220,9 +209,7 @@ Jen jeden, co stojí v rohu, ví své, ale on se obrátí na jiné orgány. Ani
 
 Velitel útvaru netuší, že se namáhá marně. Za zběhnutí svých podřízených bude odvelen.
 
-\* \* \*
-
-  
+* * *
 
 MARII VÁVROVOU VYTAHUJÍ Z POSTELE před pátou ráno. Dívá se na dva příslušníky Sboru národní bezpečnosti a dochází jí, že jsou tu kvůli Josefovi. Dostane strach.
 
@@ -260,9 +247,7 @@ Marie se rozpláče.
 
 A nebyli daleko od pravdy.
 
-\* \* \*
-
-  
+* * *
 
 22\. ŘÍJNA, 10.45, ČESKÉ BUDĚJOVICE
 
@@ -330,9 +315,7 @@ Hasil nepatrně přikývne.
 
 V tu chvíli by si Hasil nejradši uřízl jazyk, ještě že je Zdeněk v bezpečí…
 
-\* \* \*
-
-  
+* * *
 
 22\. ŘÍJNA, 19.00, TÁBOR
 
@@ -346,9 +329,7 @@ Většinu času leží a kouká do rozpraskané zdi.
 
 Čeká na soud. Tři měsíce a deset dní vyšetřovací vazby.
 
-\* \* \*
-
-  
+* * *
 
 RŮŽENA SE DOZVÍDÁ O JOSEFOVĚ ZATČENÍ už před obědem. Cvrlikají si o tom vrabci na střeše. Prý zradil. Stal se jedním z rozvracečů republiky. Napomáhal k útěku nepřátelům lidu. Agent?
 
@@ -396,9 +377,7 @@ Padne do zeleného koberce a v slzách se její sen pomalu rozplývá.
 
 Soudní přelíčení proběhne v Praze. Předsedou senátu bude Jan Metlička a prokurátorem Karel Vaš, který zanedlouho zasedne i v procesu proti Miladě Horákové, během něhož jako hlavní svědek promluví bývalý partyzán Vávra-Stařík. Unese ho z Vídně Státní bezpečnost, do poslední chvíle bude spolupracovat a vypovídat podle předem daného scénáře, aniž by tušil, že ho čeká oprátka.
 
-\* \* \*
-
-  
+* * *
 
 25\. ŘÍJNA, 7.25, NOVÉ ÚDOLÍ
 
@@ -412,9 +391,7 @@ Ne, nikdo jiný z útvaru Josefův Důl do celé té věci nebyl zasvěcený.
 
 Vyletu převáží eskorta z Budějovic do táborské vojenské vazební věznice.
 
-\* \* \*
-
-  
+* * *
 
 BRZY RÁNO 26. října naložili Hasila i Vyletu do auta. Vezou je k dalšímu výslechu. Tentokrát do Prahy, do neslavně proslulého Domečku na Hradčanech. Setkají se tu s vyšetřovatelem Františkem Perglem.
 
@@ -492,9 +469,7 @@ Muž si připálí cigaretu a sirku odhodí na zem.
 
 „Nebuď naivní, Hasile, o všem tady rozhodujeme my, a ne žádný soudce. Z tebe moh bejt slibnej esenbák, kdybys včas pochopil, kde je tvoje místo. Měls vstoupit do strany a dělat to, co po tobě doba žádá, no… každej svýho štěstí strůjce. Jako ten Choc, co ho měl šéf v prádle před tvým kámošem. Dnešní vejprask si bude dlouho pamatovat. No, dlouho… dokud ho nepověsíme. To bude co nevidět. A jenom mezi náma… za těch devět let budeš ještě vděčnej. Přijde doba, kdy už takový, jako jseš ty, budeme taky rovnou věšet.“
 
-\* \* \*
-
-  
+* * *
 
 DRUHÉHO ÚNORA 1949 probíhá v Praze proces s bývalými strážmistry SNB Josefem Hasilem a Zdeňkem Vyletou. V tu samou dobu soudí vojenský soud v Táboře Vladimíra Malinu. Malina je souzen v samostatném přelíčení, jeho zločin je méně závažný. Strážmistr Malina spáchal zločin porušení subordinace. Malina je suspendován a odsouzen na deset měsíců, z toho osm v samovazbě a jednou měsíčně tvrdé lože. Případ Hasil-Vyleta je z Tábora postoupen vyšší instanci.
 
@@ -508,9 +483,7 @@ Souzený muž nevnímá slova ani gesta. Nic už ho nepřekvapuje. Ani slova a 
 
 „Strážmistři Hasil a Vyleta se dopustili zločinu přípravy úkladů proti republice, Hasil kázeňského přestupku a zločinu porušení subordinace, Vyleta pak zločinu vojenské zrady. Naproti tomu se strážmistr Josef Hasil zprošťuje pro nedostatek důkazů žaloby, že po ilegálním přechodu státních hranic vyzradil v Německu cizím zpravodajským orgánům...“
 
-\* \* \*
-
-  
+* * *
 
 JOSEFA HASILA ODSOUDÍ NA DEVĚT LET těžkého žaláře, deset let bez občanských práv. Jednou za čtvrt roku bude spát na prkně bez slamníku. Zaplatí výlohy soudu a pokutu ve výši tři tisíce korun. Vyletu odsoudí na patnáct let, taky jej čeká pravidelné tvrdé lože, taky pokuta tři tisíce, taky nemá a nebude mít žádná práva občana Československa. Hasila odvážejí do pankrácké věznice, kde pobude pouhých devět dní. Jedenáctého února už je v Plzni na Borech. Dvanáctého je podroben zkoušce písma podle diktátu a podle předlohy. Nechápe sice význam, ale píše. Pero skřípe po povrchu papíru. Píše, ale myšlenky utíkají jinam… domů…
 
@@ -566,17 +539,17 @@ S Tondou probírají všechny podrobnosti. Vyleta mlčí, tu a tam poradí. Pa
 
 Zdeněk jen smutně pokývne hlavou. Ale už se k nim blíží bachař. Rychle se rozejdou a nastoupí do vyrovnané řady muklů v šedivých hadrech.
 
-\* \* \*
-
-  
+* * *
 
 MARIE KOJÍ MALÉHO JOSEFA. Synek má tátovy oči i našpulenou pusu. Celý Hasil. Při pohledu na dítě se vždycky uklidní, rozbouřené a zmatené myšlenky se náhle zpomalují a ona vnímá jenom příjemný tlak v bradavkách.
 
 Po poli se procházejí černé vrány. Připomínají slet funebráků, tím víc ji skličují. Bojí se o svého Josefa. Přes půl roku je za mřížemi a ona dostává na kousku sáčku od chleba napsaný moták, krátký, úsečný.
 
+  
+
 > _Myslím na tebe. Opatruj našeho syna. Vrátím se a už budeme žít spolu. Věř mi. Jsem pořád s tebou, pořád. Mám tě rád, Mařenko._
 
-Pepa
+> _Pepa_
 
 Píše mu denně, než se dozví, že vězni smějí dostávat dopisy jen jednou za čtvrt roku, a to pouze od členů rodiny. Ona do ní podle úřadů nepatří. Nestala se jeho ženou, třebaže mu porodila syna. Proto zajde do Zábrdí k paní Rozálii, Josefově matce, předá jí svůj vzkaz a ona jej vloží do obálky, připíše svých pár řádek, stejně jako bratři. Za sestry píše Aloisie, sejde se s Anežkou a domlouvají se, čím Pepíka potěšit. Žofie žije v Písku, tu a tam se ozve, aby pozdravovaly, daří se jí obstojně. Josefovo zatčení ještě víc semkne celou rodinu. Sourozenci si vypomáhají se sháněním jídla i jiných věcí potřebných k životu. Žofie přiveze všem opravené boty a odváží si máslo a vajíčka. Dokonce se zastaví i starý Vávra a přinese maso z černé porážky. Za Josefem nemůžou, nepustí za ním ani nikoho z rodiny.
 
@@ -584,9 +557,7 @@ Marie se upne ke klučíkovi. Povídá si s ním, jako by jí mohl rozumět. Sn
 
 Napadne ji, že po devíti letech odloučení už možná Pepu nepozná. Ne, je si jistá, ona takovou dobu bez lásky, bez fyzických doteků nevydrží. Zblázní se, jistě se zblázní, nebo se vrhne do náruče jinému.
 
-\* \* \*
-
-  
+* * *
 
 BRZY RÁNO DEVÁTÉHO KVĚTNA, kdy lid oslavuje čtvrté výročí osvobození Československa Rudou armádou, jiné armády už tisk ani rozhlas nezmiňuje, odváží náklaďák Josefa a dalších devatenáct vězňů k dolu. Je ještě tma. Josef a Tonda se snaží nastoupit na korbu mezi posledními, aby seděli pokud možno na kraji. V ostré zatáčce, kde musí řidič přibrzdit, vždycky tady zpomalí, chtějí vyskočit z jedoucího vozu, využít chvilky, kdy jejich strážce podřimuje. Než se probere, pohltí oba muže temnota.
 
@@ -606,9 +577,7 @@ Po práci naloží bachaři na korbu dvacet muklů a odjedou. Josef s Tondou z
 
 „Chlapci! Chlapci, vraťte se, já to na vás neřeknu!“
 
-\* \* \*
-
-  
+* * *
 
 BĚŽÍ KUS CESTY VODOU, ROZBAHNĚNÝMI LOUKAMI, vědí, že tady psi ztratí stopu. Plán vymysleli chytře. Navedou své pronásledovatele k severu, směrem k Německu, pak se rychle stočí obloukem dolů k Žatci a dál na jih. Tam je nikdo hledat nebude. Tím si je Josef téměř jistý, ale pro všechny případy je nutné dbát na opatrnost.
 
@@ -716,9 +685,7 @@ Jdou dál.
 
 K ránu už má žraloka na botách i Josef.
 
-\* \* \*
-
-  
+* * *
 
 NEMOHOU UŽ ANI KROK. Tady je konečná. Mezi stromy tuší paseku, možná louku. Musí se dostat aspoň tam. Na kraji lesa zůstanou ležet. Pozorují tichou stráň. Nahoře stojí hájenka.
 
@@ -764,9 +731,7 @@ Tonda si přejede dlaní po temeni. Rozesměje se ve chvíli, kdy se podívá na
 
 „My vypadáme. Dva blbci, co frnkli z arestu.“
 
-\* \* \*
-
-  
+* * *
 
 HAJNÝ LORENZ ŽIJE SE ŽENOU V HÁJENCE NEDALEKO KRYR. K radosti mu stačí les. Ani do města nezajíždí, aby nakoupil. Potraviny mu vozívá syn z Plzně.
 
@@ -896,9 +861,7 @@ Odpočívají. Jedí. Hrají karty. Leží. Pomalu nabírají síly. Boty zatím
 
 „Napište, Josefe, svýmu bratrovi dopis. Ať vám přiveze vaše oblečení, na vás to moje i synovo plandá, každej by poznal, že vám nepasuje. Všechny věci nechá v Plzni v truhlárně u mýho kluka a ten je doveze sem do hájovny. Obálku s adresou ale nadepíše snacha na psacím stroji, tak nikoho nenapadne, že je to od vás. Budete potřebovat nějakej bezpečnej úkryt. Tam u vás na Šumavě se jich jistě najde víc než dost. S tím přechodem přes hranici radši vyčkejte. Nohy máte samej bolák. Musíte bejt při síle, abyste mohli běžet jako zajíci,“ řekne hajný, než je poprvé opustí. Jeho slova se teď Josefovi vybavují. Dopis už dávno napsal. Bohouš by ho měl mít. Nezbývá nic jiného než ze země zmizet.
 
-\* \* \*
-
-  
+* * *
 
 KDYŽ BOHUMIL DOSTANE BRATRŮV DOPIS, o jeho útěku už ví. Všichni z rodiny byli u výslechu. I Marie Vávrová. Všem řeknou: „Pokud se ozve nebo ukáže, hned to hlaste, jinak vás čeká peklo!“ Oni ale netuší nic, Josefa od doby, co byl zatčený, neviděli. Nakonec je po několika hodinách propustí. Bohumilovi je jasné, že musí být opatrný. Určitě je všechny sledují.
 
@@ -944,9 +907,7 @@ S dýmem načrtávají do vzduchu i plán, jak dostat Josefa a jeho přítele
 
 Bohumil nechává v chodbě za dílnou prázdný kufr, věci naskládá do batohu a vydá se na cestu do Kryr. Ondřej je veze vypůjčenou tatrovkou, hájovna je dobrých deset kilometrů za obcí a čím dřív bude Bohouš zpátky doma, tím líp. Jeho nepřítomnosti by si mohl někdo všimnout.
 
-\* \* \*
-
-  
+* * *
 
 TONDA SE OBLÉKNE do Ondřejových obnošených kalhot. Mají přibližně stejnou postavu. Kabát ze šatníku zas vytáhne hajný. Jenom boty vyzkouší patery, než mu jedny jakž takž sednou. Josef to má jednodušší, oblékne se i obuje do svého.
 
@@ -1090,9 +1051,7 @@ Zatímco se cpou, přemýšlí Josef o tom, co bude, až opět vyrazí, přibl�
 
 Bohumil papíry zastrčí do podšívky kabátu.
 
-\* \* \*
-
-  
+* * *
 
 JSOU NA CESTĚ CELÝ DEN, vyhýbají se vesnicím, cestu si vybírají převážně lesem. K večeru si najdou skrýš nedaleko Vlachova Březí, v díře mezi kořeny vyvráceného smrku. Mají odtud dobrý výhled. Vidí na silnici i lesní cestu. Najedí se.
 
@@ -1184,17 +1143,13 @@ Má před sebou celou noc.
 
 Bude-li to jenom trochu možné, zastaví se i v Zábrdí za matkou. Však on už si se slídily nějak poradí.
 
-\* \* \*
-
-  
+* * *
 
 LEŽÍ A POZORUJE TEMNÝ STATEK. Je prázdný. Žádné světlo, nic. Přemýšlí, kam se Vávrů rodina poděla, kam zmizela zvířata. A proč? Leží a narůstá v něm podezření, že už nic a nikdy nebude na svém místě. Všechny záchytné body, důležité pro rovnováhu života, se ztratí, zkalí se dosud čirý pohár a uvnitř bude tma plná pavučin zachytávajících se na rukou, kolem boků, za chodidla. Marie… Jak touží po jejím objetí, po pohledu na svého syna. „Doba je zlá!“ Slyší odevšad. To zvolání se odráží od kopců a pastvin, ze střech domů sjíždí jako sníh a drkotá po prašných cestách. Mrtvolné ticho, mrtvý sad, mrtvá tráva. Nejraději by zařval do té tmy, vyřval svůj potlačovaný vztek. Doba? Dobu dělají lidé, to v nich se zahnízdila ta pavučina, v nich sedí a vyčkává černý pavouk. Doba? Vždycky nějaká byla a vždycky bude, ale lidé se rodí a umírají, to oni dávají svou vůli, svou sílu ve jménu něčeho, co nikdy nepochopí, co se zakousne do jejich zátylků a bude s nimi šíbovat po jedné jediné kolejnici, po vytyčené trase odnikud nikam, bez cíle, bez počátku, jak s loutkami v maňáskovém divadle – tady Kašpárek, tamhle čert a mezi nimi plavovlasá Káča. A nakonec stejně všechno zmizí, Káča, čert i Kašpárek, celé to divadlo, všechny statky, vesnice i pastviny, lesy a úplně nakonec i hranice. Zmizí země, kontinenty, planety i hvězdy…
 
 Sakra, Josefe, zvedni kostru a zmiz odtud, tamhle u vrat se mihl stín a vzadu u stodoly… zmiz, Josefe, a vyhni se i svýmu rodnýmu domku. Matka tě potřebuje živého, jsi mladý, příliš mladý, utíkej zpátky do sklepa k Tondovi, zpátky do nory, kde jak krtek zalezeš a čumák vystrčíš až… Kdy? Bůh ví, a možná ani on ne. Začínáš pochybovat i o něm. Ztratíte víru. Ty i tví sourozenci, celý národ? Ztráta víry snad vykoupí poslední zbytky lidství, poslední záchvěv zdravého rozumu… Tak zdrhej, zdrhej a neotáčej se. Pohltí tě noc, lesy, stromy tě obejmou svými větvemi, kořeny, srosteš s nimi, sám stromem, nehybným, přesto rychlým jako vítr, jako horská bystřina, jak jestřáb. A ty se zhluboka nadechuješ a stáváš se jelenem, máš zbystřené smysly, vetknutou nedůvěru v dvounožce. Šesterák Josef. Není náhoda, že právě teď na tebe vzpomínají. Všechny tři. Sedmnáctiletá Marie, v náručí malého Josefa, čtyřicetiletá Vlasta sedící u okna hájovny, studentka Růžena leží v posteli a sní o tom, jak tě zachrání, ona – patnáctiletá holka… Ale ty jsi sám. Sám uprostřed noci a nikde nesvítí žádná lampa, ani plamen svíčky, nic, kam by ses mohl uchýlit a kde by ti konečně bylo teplo.
 
-\* \* \*
-
-  
+* * *
 
 MINUTY SE VLEČOU JAKO HODINY, DNY ZAS JAKO TÝDNY, jedinou zábavou jsou karty, chytání much do velké sklenice a pozorování kdákajících slepic sklepní škvírou. Na dvoře se podle stínu dá odhadnout, kolik právě je. Naučí se rozeznávat čas podle těchto slunečních hodin. Když se ještě celý dvůr noří do modrého stínu, je jasné, že bude teprve mezi půl šestou a šestou, ale jakmile první paprsky rozsvítí bílou zeď, pomyslně odbije půl sedmá a s přibývajícím světlem se hodiny stáčejí k sedmé, půl osmé a přesně v osm už svítí i koryto s protékajícím pramenem vody. V poledne se ve slunci topí celý dvůr i se zdmi kolem, ale po jedné se začíná ztrácet západní zeď a s ní nakonec okna vedoucí do dvora. S přibývajícím odpolednem odtéká sluneční svit a znovu přibývá stín, nejdříve modrozelený a k večeru fialový. Když pohltí i koryto, slepice i kamenné zápraží, je jasné, že nastává čas večeřet. Potom padne na celý statek deka a jen modré nebe měnící svou tvář do temnějších odstínů dává tušit, že noc je před vraty.
 
@@ -1218,9 +1173,7 @@ Zjistí, že hlídky chodí v přesném sledu, že by si podle nich mohli říd
 
 Pátý den vycházejí ze svého úkrytu. Po bývalé Zlaté stezce, krytí kamennými valy, se dostávají po pastvinách až k lesu. Vyčkávají, hlídka mizí a oni mohou pokračovat dál. Hranici překročí za necelou půlhodinu.
 
-\* \* \*
-
-  
+* * *
 
 MEZI LIDMI SE ŠUŠKÁ, že Josef Hasil utekl z komunistického lágru a je za čárou v Bavorsku.
 
@@ -1232,9 +1185,7 @@ Představuje si, jak mu pomáhá, vede ho temnými hvozdy, nosí mu jídlo, nap�
 
 Leží na zádech ve vysoké trávě, nad ní modré nebe, je teplo, školní rok končí, začnou prázdniny, už brzy, a jejím mladým tělem projede silný proud, až ji uvrhne do zvláštní nehybnosti, v níž dlaň zůstane pevně přitisknutá k malému ňadru a prsty druhé ruky křečovitě svírají klín. Hlasitě oddychuje. Je sama sebou zaskočena. Pak se v její vzpomínce objeví obraz Josefovy tváře a ten ostrý proud ji v náhlém přívalu strhává.
 
-\* \* \*
-
-  
+* * *
 
 MARIE SLEDUJE SVÉHO PŮLROČNÍHO SYNA, jak máchá ručkama a směje se. Ta podoba! Až příliš, pomyslí si, až příliš. Jenom aby nedopadl v životě stejně.
 
@@ -1260,9 +1211,7 @@ Mávne rukou a nuceně se zasměje.
 
 Promlouvá sama k sobě a jenom po očku sleduje půlročního syna. Nesměje se ani netleská a nemáchá ručkama. Jeho pohled už neunese. Zvedá se a vychází k jabloním.
 
-\* \* \*
-
-  
+* * *
 
 VLASTA VĚŠÍ VYPRANÉ BĚLOSTNÉ PRÁDLO a najednou se jí zdá, jako by z dálky zaslechla známý hlas. Dlouho tu nebyl, napadne ji. Od kominíka Pazderky dostala zprávu, že Josefa zatkli, psali o tom i v novinách, prý ještě s jedním esenbákem převáděl za hranice lidi a nechal si za to platit.
 
