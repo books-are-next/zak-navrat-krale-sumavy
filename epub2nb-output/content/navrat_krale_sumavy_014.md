@@ -3,11 +3,7 @@ title: ''
 contentType: prose
 ---
 
-  
-
-  
-
-  
+<section>
 
 ZPRÁVA, KTEROU VÁCLAV HESOUN POSÍLÁ po Hasilovi a ten ji vláčí celou tu dobu s sebou v rukávu, vyráží dech nejen Pátému, ale i Eckertovi a Taylorovi. Zatčen druhý nejmocnější muž Československa Rudolf Slánský.
 
@@ -408,3 +404,5 @@ Hajný Jaromír, manžel Vlastičky, mizí v Austrálii.
 Britové zahájí výcvik agentů pro lety ve speciálních balonech. Nakonec se uskuteční jen tři. Dva první balony havarují během přistání, jejich výškoměr ukazuje ve stopách, ale zpravodajci se řídí podle map v metrech. Oba piloti zahynou. Třetí, Ladislav Křivohlavý, 31. října 1953 úspěšně přistane, ale po dvou týdnech jej zatknou. I s lety přes ostnaté dráty je konec.
 
 Začátkem roku 1954 odjíždí generál Moravec do USA. Nikdy se už nevrátí. Pomalu končí i činnost Pátého skupiny. Josef Hasil s Antonínem Vítkem zůstávají až do konce. Oba mladí muži, kteří spolu utekli z komunistického lágru, měli štěstí, přežili. Tonda i Josef jsou Králové Šumavy, vždyť sloužili pod Königem, pod Králem; a pod ním slouží jen jemu rovní.
+
+</section>

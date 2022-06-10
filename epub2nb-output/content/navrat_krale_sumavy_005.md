@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Znění tohoto textu vychází z díla [Návrat Krále Šumavy](https://search.mlp.cz/cz/titul/navrat-krale-sumavy/3798655/) tak, jak bylo vydáno nakladatelstvím Labyrint v Praze v roce 2012. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
 **§**
@@ -15,6 +17,10 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 
 Verze 2.0 z 15. 3. 2021.
 
-  
+</section>
+
+<section>
 
 ![image002.jpg](./resources/image002_fmt.png)
+
+</section>

@@ -3,11 +3,7 @@ title: ''
 contentType: prose
 ---
 
-  
-
-  
-
-  
+<section>
 
 JOSEF HASIL ODJÍŽDÍ DO USA SPOLEČNĚ SE SVÝM PARŤÁKEM. Tam se jejich cesty rozdělí. Když se loučí, zeptá se nečekaně Vítek Hasila:
 
@@ -318,3 +314,5 @@ _Egon Brodský, dnes ráno člen komunistické strany a úředník ministerstva
 _Stojí svobodně v silném poryvu větru. Je v Bavorsku. Za ním z temnoty svítí bílý hraniční kámen._
 
 Šumava 2007–2012
+
+</section>
