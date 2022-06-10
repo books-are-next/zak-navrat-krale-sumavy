@@ -3,11 +3,7 @@ title: ''
 contentType: prose
 ---
 
-  
-
-  
-
-  
+<section>
 
 20\. ŘÍJNA, 23.06, STOŽEC
 
@@ -151,7 +147,9 @@ A Josefovi se honí hlavou procesí myšlenek. Je mu jasné, že chtějí, aby 
 
 Na konci výslechu Josef bez přečtení podepíše svou výpověď i několik průklepových kopií. Netuší, že vyšetřovatel do spisu připíše:
 
-  
+</section>
+
+<section>
 
 _Přitěžující okolnosti jsou, že strážm. Hasil spáchal čin ve stavu střízlivém, v úmyslu předem uváženém a zřejmém – prchnouti do zahraničí._
 
@@ -545,7 +543,9 @@ MARIE KOJÍ MALÉHO JOSEFA. Synek má tátovy oči i našpulenou pusu. Celý Ha
 
 Po poli se procházejí černé vrány. Připomínají slet funebráků, tím víc ji skličují. Bojí se o svého Josefa. Přes půl roku je za mřížemi a ona dostává na kousku sáčku od chleba napsaný moták, krátký, úsečný.
 
-  
+</section>
+
+<section>
 
 > _Myslím na tebe. Opatruj našeho syna. Vrátím se a už budeme žít spolu. Věř mi. Jsem pořád s tebou, pořád. Mám tě rád, Mařenko._
 
@@ -1238,3 +1238,5 @@ Až večer půjde Pazderka okolo, potvrdí její tušení. Ano, Josef utekl z l
 „Obrňme se trpělivostí, paní Vlastičko,“ říká.
 
 Ona se však ničím obrňovat nepotřebuje, ví své. Její jistota pramení z šepotu větru a stromů. To oni jsou posly dobrých zpráv.
+
+</section>

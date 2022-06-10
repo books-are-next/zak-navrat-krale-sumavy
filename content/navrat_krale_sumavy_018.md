@@ -3,11 +3,7 @@ title: ''
 contentType: prose
 ---
 
-  
-
-  
-
-  
+<section>
 
 Prameny pro napsání tohoto románu jsem sbíral od pamětníků, ale i z literatury. Vyrůstal jsem v Hasilově kraji, hrával si s kamarády po lesích v místech, kudy chodíval, kde se skrýval. Josef Hasil byl a je pro nás kluky stejným hrdinou jako třeba Tecumseh, Geronimo, Sedící býk nebo Rob Roy, ti všichni bojovali za podobné hodnoty jako on. Za svobodu a možnost žít beze strachu ve své zemi.
 
@@ -42,3 +38,5 @@ Každá epizoda z této knihy má hned několik variant, podle počtu pamětní
 Tak dlouho se snaží vytěsnit nepříjemné události od hranic, zvlášť po trýznivých snech, které se mu zdají téměř každou noc – střelba, po níž je chycený a odvážený do vězení, křičí ze spaní, že se nesmějí dozvědět, kdo je… pilulku s jedem připravenou k rozkousnutí – až opravdu začíná zapomínat. Jeho vlastní prožitky zakryje mlha.
 
 A mlha patří i k příběhu o Králi Šumavy…
+
+</section>

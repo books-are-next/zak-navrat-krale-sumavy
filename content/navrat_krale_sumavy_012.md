@@ -3,11 +3,7 @@ title: ''
 contentType: prose
 ---
 
-  
-
-  
-
-  
+<section>
 
 V KANCELÁŘI americké tajné služby stojí Charles Eckert u otevřeného okna, opírá se o parapet, před sebou přeplněný popelník, kouří cigaretu, aniž ji šlukuje. Do místnosti vstoupí bez klepání drobný Frank Taylor, jeho pravá ruka.
 
@@ -583,7 +579,9 @@ Upraví se, ohlédne a zamává mu, jako by věděla, že Josefa delší čas n
 
 Když se strýc vrátí z lesa, najde prázdnou postel, krvavé skvrny v záhybu na prostěradle si nevšimne. On cíchy nepere ani nestele, to je ženská práce. Na kusu papíru si přečte vzkaz.
 
-  
+</section>
+
+<section>
 
 > _Děkuju, najdu způsob, jak se vám revanšovat. Na stole máte pět tisíc korun, můžou se hodit. Půjčil jsem si ten starej kabát z maštale. J._
 
@@ -2623,7 +2621,9 @@ Zasměje se, ale ten smích zní dutě. Klára pochopí, že má Josef strach. O
 
 Vstává. Protře si zarudlé oči. Rozevře pomalu náruč, a než Kláru obejme, zazpívá společně s hlasem zpěváka a herce Oldřicha Nového z gramofonové desky:
 
-  
+</section>
+
+<section>
 
 _„Jen pro ten dnešní den  
 stojí za to žít,  
@@ -2637,7 +2637,9 @@ Nesmíš se ptát, co bylo včera,
 bude zítra snad, jen dnešek uchopit a pochopit,  
 že nejkrásnější den je dnešní den…“_
 
-  
+</section>
+
+<section>
 
 Brzy ráno po oslavě všude vládne ticho a tma. Zatímco ostatní ještě vyspávají, nasedne Pátý do svého vozu, vedle něho se na zadním sedadle choulí nevyspalý Josef Hasil. Řidič Čermák se mrkne do zpětného zrcátka a sešlápne plyn.
 
@@ -3150,3 +3152,5 @@ Převezou je do nemocnice.
 Klára je mrtvá.
 
 Josef ztratil hodně krve. Lékaři bojují o jeho život. Nikdo nedokáže pochopit, jak se žena s prostřeleným žaludkem a se silným vnitřním krvácením mohla dostat takovou dálku z místa střetu za hranice do Bavorska. Podezřívají Josefa, že ji celou tu cestu vláčel za sebou, ale i to je téměř nemožné. Josef tvrdí, že ona táhla jeho.
+
+</section>

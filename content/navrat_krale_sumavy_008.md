@@ -3,11 +3,7 @@ title: ''
 contentType: prose
 ---
 
-  
-
-  
-
-  
+<section>
 
 POMALU PROJÍŽDÍ ŽELEZNOU RUDOU a mizí v temném stínu lesa. Cestuje z Prahy až sem k šumavským kopcům. Bez zastávky. Žádná z hlídek SNB si nedovolí zvednout plácačku a prohledat kufr i prostor pod sedadly ani legitimovat pasažéry. Diplomatické vozy policisté nechávají projet až k hranicím. Zatím. Pokud by však oba muži – Egon Brodský a jeho průvodce Gerard Morgan, diplomat z amerického velvyslanectví – jeli civilním autem nebo vlakem, kontrole by se nevyhnuli. Egon by musel v ostrém světle lampy, která by stála na stole vyšetřovatele Státní bezpečnosti, dlouze vysvětlovat, co ho dovedlo v doprovodu _nepřítele_ až sem, na samý okraj světa, za nímž už je _jen špína imperialistických štváčů, co chystají další světovou válku_. Podobných výkřiků proti Západu jsou teď plné noviny. Nikdo by mu nevěřil, že vyrazil s americkým špionem na výlet, aby zjistili, dá-li se na šumavských stráních lyžovat. Mladá socialistická společnost se teprve rodí, společnost pod diktaturou proletariátu, pod taktovkou Stalinovy Moskvy.
 
@@ -147,7 +143,9 @@ ZE ŽELEZNÉ RUDY JEDE JOSEF DO ZÁBRDÍ. Chce jen v rychlosti pozdravit matku 
 
 Za jízdy se v myšlenkách vrací k řádkům od bratra.
 
-  
+</section>
+
+<section>
 
 > _Josef,_
 
@@ -2196,3 +2194,5 @@ _[^1] Pojďte oba se mnou na policejní stanici. Ale oba! Rychle! Rychle! Zůsta
 _[^2] Ruce vzhůru! _Pozn. red.__
 
 _[^3] Sundej si opasek a odhoď brašnu. Ihned! _Pozn. red.__
+
+</section>
