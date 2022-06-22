@@ -1,0 +1,361 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Návrat Krále Šumavy",
+  "author": "David Jan Žák",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "zak-navrat-krale-sumavy-963be77",
+  "revision": "963be77",
+  "readingOrder": [
+    "promo.html",
+    "navrat_krale_sumavy_006.html",
+    "navrat_krale_sumavy_007.html",
+    "navrat_krale_sumavy_008.html",
+    "navrat_krale_sumavy_009.html",
+    "navrat_krale_sumavy_010.html",
+    "navrat_krale_sumavy_011.html",
+    "navrat_krale_sumavy_012.html",
+    "navrat_krale_sumavy_013.html",
+    "navrat_krale_sumavy_014.html",
+    "navrat_krale_sumavy_015.html",
+    "navrat_krale_sumavy_016.html",
+    "navrat_krale_sumavy_017.html",
+    "navrat_krale_sumavy_018.html",
+    "navrat_krale_sumavy_019.html",
+    "colophon.html"
+  ],
+  "generatedAt": {
+    "date": "Wed Jun 22 2022 08:02:16 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655884936748
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "navrat_krale_sumavy_006.html",
+      "toc": []
+    },
+    {
+      "title": "Návrat Krále Šumavy",
+      "file": "navrat_krale_sumavy_006.html",
+      "words": 1,
+      "chars": 6,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "navrat_krale_sumavy_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Část prvníNA ČÁŘE",
+      "file": "navrat_krale_sumavy_007.html",
+      "words": 3,
+      "chars": 17,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 2,
+      "prev": "navrat_krale_sumavy_006.html",
+      "next": "navrat_krale_sumavy_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Část prvníNA ČÁŘE",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Návrat Krále Šumavy",
+      "file": "navrat_krale_sumavy_008.html",
+      "words": 28458,
+      "chars": 167215,
+      "ideas": 1065,
+      "role": "chapter",
+      "order": 3,
+      "prev": "navrat_krale_sumavy_007.html",
+      "next": "navrat_krale_sumavy_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Část druháÚTĚK Z LÁGRU",
+      "file": "navrat_krale_sumavy_009.html",
+      "words": 4,
+      "chars": 22,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 4,
+      "prev": "navrat_krale_sumavy_008.html",
+      "next": "navrat_krale_sumavy_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Část druháÚTĚK Z LÁGRU",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Návrat Krále Šumavy",
+      "file": "navrat_krale_sumavy_010.html",
+      "words": 13562,
+      "chars": 79434,
+      "ideas": 589,
+      "role": "chapter",
+      "order": 5,
+      "prev": "navrat_krale_sumavy_009.html",
+      "next": "navrat_krale_sumavy_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Část třetíAGENT-CHODEC",
+      "file": "navrat_krale_sumavy_011.html",
+      "words": 2,
+      "chars": 22,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 6,
+      "prev": "navrat_krale_sumavy_010.html",
+      "next": "navrat_krale_sumavy_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Část třetíAGENT-CHODEC",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Návrat Krále Šumavy",
+      "file": "navrat_krale_sumavy_012.html",
+      "words": 49307,
+      "chars": 291101,
+      "ideas": 1525,
+      "role": "chapter",
+      "order": 7,
+      "prev": "navrat_krale_sumavy_011.html",
+      "next": "navrat_krale_sumavy_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Část čtvrtáOPONA SE ZATAHUJE",
+      "file": "navrat_krale_sumavy_013.html",
+      "words": 4,
+      "chars": 28,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 8,
+      "prev": "navrat_krale_sumavy_012.html",
+      "next": "navrat_krale_sumavy_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Část čtvrtáOPONA SE ZATAHUJE",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Návrat Krále Šumavy",
+      "file": "navrat_krale_sumavy_014.html",
+      "words": 6916,
+      "chars": 41650,
+      "ideas": 194,
+      "role": "chapter",
+      "order": 9,
+      "prev": "navrat_krale_sumavy_013.html",
+      "next": "navrat_krale_sumavy_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Část pátáEPILOG",
+      "file": "navrat_krale_sumavy_015.html",
+      "words": 2,
+      "chars": 15,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 10,
+      "prev": "navrat_krale_sumavy_014.html",
+      "next": "navrat_krale_sumavy_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Část pátáEPILOG",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Návrat Krále Šumavy",
+      "file": "navrat_krale_sumavy_016.html",
+      "words": 4435,
+      "chars": 26002,
+      "ideas": 155,
+      "role": "chapter",
+      "order": 11,
+      "prev": "navrat_krale_sumavy_015.html",
+      "next": "navrat_krale_sumavy_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "DOSLOV",
+      "file": "navrat_krale_sumavy_017.html",
+      "words": 1,
+      "chars": 6,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 12,
+      "prev": "navrat_krale_sumavy_016.html",
+      "next": "navrat_krale_sumavy_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "DOSLOV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Návrat Krále Šumavy",
+      "file": "navrat_krale_sumavy_018.html",
+      "words": 923,
+      "chars": 5574,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 13,
+      "prev": "navrat_krale_sumavy_017.html",
+      "next": "navrat_krale_sumavy_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Návrat Krále Šumavy",
+      "file": "navrat_krale_sumavy_019.html",
+      "words": 78,
+      "chars": 573,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 14,
+      "prev": "navrat_krale_sumavy_018.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "colophon.html",
+      "words": 143,
+      "chars": 913,
+      "ideas": 17,
+      "role": "colophon",
+      "order": null,
+      "prev": "navrat_krale_sumavy_019.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 103847,
+      "chars": 612621,
+      "ideas": 3575
+    },
+    "chapters": {
+      "words": 103696,
+      "chars": 611665,
+      "ideas": 3554
+    }
+  }
+}
