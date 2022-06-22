@@ -1,1 +1,511 @@
-{}
+{
+  "params": {
+    "metadata": {
+      "languageCode": "cs",
+      "title": "Návrat Krále Šumavy",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "David Jan Žák",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-03-15T00:00:00.000Z",
+      "contentType": "prose",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
+    },
+    "elements": {
+      "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
+      "subtitle": "",
+      "h2": "MLP.uroven3.nadpis.*\nMLP.UROVEN3.*\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasne\nmlpuroven3.*",
+      "h3": "MLP.uroven4.nadpis\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasnebezodstrankovani",
+      "h4": "MLP.uroven5.nadpis",
+      "hr": "MLP.hvezdicky\ne.bookhvezdickystred",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": ".+12.0\n.+12.12\n.+12.0.\n.+12.12.\ne.bookversebezpredsazeni.*pred.*\ne.bookodsazeniodstavce.*pred.*",
+      "brAfter": ".+0.12\n.+12.12\n.+0.12.\n.+12.12.\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*",
+      "blockquote": "MLP.DENIK\nMLP.dopis.*\nMLP.citat\nMLP.prima.rec\ne.bookdopis\ne.bookprozatextkurzivadoprava",
+      "figure": "MLP.obrazky.*\nmlpobrazky",
+      "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.verse.*\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
+      "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\n.*_B_\n.*_B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
+      "remove": "",
+      "ignore": "",
+      "centered": ".*uprostred.*",
+      "verse": "MLP.verse.*"
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "listType": "plain",
+        "children": [
+          {
+            "filename": "navrat_krale_sumavy_001.md",
+            "xhtml": "navrat_krale_sumavy_001.xhtml",
+            "id": 0,
+            "role": "cover",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "navrat_krale_sumavy_002.md",
+            "xhtml": "navrat_krale_sumavy_002.xhtml",
+            "id": 1,
+            "role": "promo",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "navrat_krale_sumavy_003.md",
+            "xhtml": "navrat_krale_sumavy_003.xhtml",
+            "id": 2,
+            "role": "colophon",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "navrat_krale_sumavy_004.md",
+            "xhtml": "navrat_krale_sumavy_004.xhtml",
+            "id": 3,
+            "role": "colophon",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "navrat_krale_sumavy_005.md",
+            "xhtml": "navrat_krale_sumavy_005.xhtml",
+            "id": 4,
+            "role": "colophon",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "navrat_krale_sumavy_006.md",
+            "xhtml": "navrat_krale_sumavy_006.xhtml",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Věnování"
+          },
+          {
+            "filename": "navrat_krale_sumavy_007.md",
+            "xhtml": "navrat_krale_sumavy_007.xhtml",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [
+              {
+                "filename": "navrat_krale_sumavy_008.md",
+                "xhtml": "navrat_krale_sumavy_008.xhtml",
+                "id": 7,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              }
+            ],
+            "title": "Část první Na Čáře"
+          },
+          {
+            "filename": "navrat_krale_sumavy_009.md",
+            "xhtml": "navrat_krale_sumavy_009.xhtml",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [
+              {
+                "filename": "navrat_krale_sumavy_010.md",
+                "xhtml": "navrat_krale_sumavy_010.xhtml",
+                "id": 9,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              }
+            ],
+            "title": "Část druhá Útěk z lágru"
+          },
+          {
+            "filename": "navrat_krale_sumavy_011.md",
+            "xhtml": "navrat_krale_sumavy_011.xhtml",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [
+              {
+                "filename": "navrat_krale_sumavy_012.md",
+                "xhtml": "navrat_krale_sumavy_012.xhtml",
+                "id": 11,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              }
+            ],
+            "title": "Část třetí Agent-chodec"
+          },
+          {
+            "filename": "navrat_krale_sumavy_013.md",
+            "xhtml": "navrat_krale_sumavy_013.xhtml",
+            "id": 12,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [
+              {
+                "filename": "navrat_krale_sumavy_014.md",
+                "xhtml": "navrat_krale_sumavy_014.xhtml",
+                "id": 13,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              }
+            ],
+            "title": "Část čtvrtá Opona se zatahuje"
+          },
+          {
+            "filename": "navrat_krale_sumavy_015.md",
+            "xhtml": "navrat_krale_sumavy_015.xhtml",
+            "id": 14,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [
+              {
+                "filename": "navrat_krale_sumavy_016.md",
+                "xhtml": "navrat_krale_sumavy_016.xhtml",
+                "id": 15,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              }
+            ],
+            "title": "Část pátá Epilog"
+          },
+          {
+            "filename": "navrat_krale_sumavy_017.md",
+            "xhtml": "navrat_krale_sumavy_017.xhtml",
+            "id": 16,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [
+              {
+                "filename": "navrat_krale_sumavy_018.md",
+                "xhtml": "navrat_krale_sumavy_018.xhtml",
+                "id": 17,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              }
+            ],
+            "title": "Doslov"
+          },
+          {
+            "filename": "navrat_krale_sumavy_019.md",
+            "xhtml": "navrat_krale_sumavy_019.xhtml",
+            "id": 18,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Poděkování"
+          },
+          {
+            "filename": "navrat_krale_sumavy_020.md",
+            "xhtml": "navrat_krale_sumavy_020.xhtml",
+            "id": 19,
+            "role": "colophon",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          }
+        ]
+      }
+    ],
+    "replacements": []
+  },
+  "epub": {
+    "metadata": {
+      "title": "Návrat Krále Šumavy",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "David Jan Žák",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-03-15T00:00:00.000Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "navrat_krale_sumavy_001.md",
+        "xhtml": "navrat_krale_sumavy_001.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "navrat_krale_sumavy_002.md",
+        "xhtml": "navrat_krale_sumavy_002.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "navrat_krale_sumavy_003.md",
+        "xhtml": "navrat_krale_sumavy_003.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "navrat_krale_sumavy_004.md",
+        "xhtml": "navrat_krale_sumavy_004.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "navrat_krale_sumavy_005.md",
+        "xhtml": "navrat_krale_sumavy_005.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "navrat_krale_sumavy_006.md",
+        "xhtml": "navrat_krale_sumavy_006.xhtml"
+      },
+      {
+        "titleSuggest": "Část prvníNA ČÁŘE",
+        "subtitleSuggest": "",
+        "filename": "navrat_krale_sumavy_007.md",
+        "xhtml": "navrat_krale_sumavy_007.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "navrat_krale_sumavy_008.md",
+        "xhtml": "navrat_krale_sumavy_008.xhtml"
+      },
+      {
+        "titleSuggest": "Část druháÚTĚK Z LÁGRU",
+        "subtitleSuggest": "",
+        "filename": "navrat_krale_sumavy_009.md",
+        "xhtml": "navrat_krale_sumavy_009.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "navrat_krale_sumavy_010.md",
+        "xhtml": "navrat_krale_sumavy_010.xhtml"
+      },
+      {
+        "titleSuggest": "Část třetíAGENT-CHODEC",
+        "subtitleSuggest": "",
+        "filename": "navrat_krale_sumavy_011.md",
+        "xhtml": "navrat_krale_sumavy_011.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "navrat_krale_sumavy_012.md",
+        "xhtml": "navrat_krale_sumavy_012.xhtml"
+      },
+      {
+        "titleSuggest": "Část čtvrtáOPONA SE ZATAHUJE",
+        "subtitleSuggest": "",
+        "filename": "navrat_krale_sumavy_013.md",
+        "xhtml": "navrat_krale_sumavy_013.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "navrat_krale_sumavy_014.md",
+        "xhtml": "navrat_krale_sumavy_014.xhtml"
+      },
+      {
+        "titleSuggest": "Část pátáEPILOG",
+        "subtitleSuggest": "",
+        "filename": "navrat_krale_sumavy_015.md",
+        "xhtml": "navrat_krale_sumavy_015.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "navrat_krale_sumavy_016.md",
+        "xhtml": "navrat_krale_sumavy_016.xhtml"
+      },
+      {
+        "titleSuggest": "DOSLOV",
+        "subtitleSuggest": "",
+        "filename": "navrat_krale_sumavy_017.md",
+        "xhtml": "navrat_krale_sumavy_017.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "navrat_krale_sumavy_018.md",
+        "xhtml": "navrat_krale_sumavy_018.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "navrat_krale_sumavy_019.md",
+        "xhtml": "navrat_krale_sumavy_019.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "navrat_krale_sumavy_020.md",
+        "xhtml": "navrat_krale_sumavy_020.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/navrat_kra_idstyles.css"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/image001_fmt.png"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/image002_fmt.png"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/upoutavka_eknihy_fmt.png"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka_navrat_krale_sum_fmt.jpg"
+      }
+    ],
+    "classes": [
+      "Footnote-reference",
+      "Hyperlink",
+      "MLP-citacni-str-rozdeleni",
+      "MLP-dopis--I",
+      "MLP-dopis-bez1radku",
+      "MLP-dopis-bez1radku--I",
+      "MLP-dopis-podpis--I",
+      "MLP-hvezdicky",
+      "MLP-licence-hypertext",
+      "MLP-licence-obrazek",
+      "MLP-licence-paragraf",
+      "MLP-licence-text",
+      "MLP-obrazky",
+      "MLP-pozn-pod-carou",
+      "MLP-text",
+      "MLP-text--0-12",
+      "MLP-text--I",
+      "MLP-text-bez1radku",
+      "MLP-text-bez1radku--0-12",
+      "MLP-text-bez1radku--12-0",
+      "MLP-text-bez1radku--I---12-0",
+      "MLP-text-doprava",
+      "MLP-text-doprava--I",
+      "MLP-tiraz-autor-a-nazev",
+      "MLP-tiraz-podnazev",
+      "MLP-titulka-autor",
+      "MLP-titulka-nazev",
+      "MLP-titulka-podnazev",
+      "MLP-titulka-prekladatel",
+      "MLP-uroven1-cast",
+      "MLP-venovani",
+      "MLP-verse--I---12-12",
+      "MLP-znak-kurziva-11b",
+      "MLP-znak-kurziva-9b",
+      "char-style-override-2",
+      "char-style-override-3",
+      "char-style-override-4",
+      "footnote",
+      "footnote-anchor",
+      "footnote-link",
+      "footnotes",
+      "frame-1",
+      "frame-2",
+      "frame-3",
+      "para-style-override-1",
+      "para-style-override-2",
+      "para-style-override-3"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "zak-navrat-krale-sumavy"
+    },
+    "generatedAt": 1654949086111
+  }
+}
