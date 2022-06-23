@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "zak-navrat-krale-sumavy-963be77",
-  "revision": "963be77",
+  "identifier": "zak-navrat-krale-sumavy-4af6a46",
+  "revision": "4af6a46",
   "readingOrder": [
     "promo.html",
     "navrat_krale_sumavy_006.html",
@@ -29,8 +29,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Wed Jun 22 2022 08:02:16 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655884936748
+    "date": "Thu Jun 23 2022 10:34:08 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655980448487
   },
   "documents": [
     {
