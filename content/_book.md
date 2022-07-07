@@ -29,7 +29,7 @@ readingOrder:
   - navrat_krale_sumavy_017.html
   - navrat_krale_sumavy_018.html
   - navrat_krale_sumavy_019.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
