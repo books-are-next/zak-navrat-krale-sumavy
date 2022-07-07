@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "zak-navrat-krale-sumavy-4af6a46",
-  "revision": "4af6a46",
+  "identifier": "zak-navrat-krale-sumavy-25bbb68",
+  "revision": "25bbb68",
   "readingOrder": [
     "promo.html",
     "navrat_krale_sumavy_006.html",
@@ -26,11 +26,11 @@
     "navrat_krale_sumavy_017.html",
     "navrat_krale_sumavy_018.html",
     "navrat_krale_sumavy_019.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:34:08 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655980448487
+    "date": "Thu Jul 07 2022 08:43:03 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657183383192
   },
   "documents": [
     {
@@ -199,7 +199,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Část čtvrtáOPONA SE ZATAHUJE",
+          "name": "Část čtvrtáOPONA SE ZATAHUJE",
           "id": null,
           "children": []
         }
@@ -314,7 +314,7 @@
       "role": "chapter",
       "order": 14,
       "prev": "navrat_krale_sumavy_018.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -327,11 +327,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 143,
-      "chars": 913,
+      "chars": 912,
       "ideas": 17,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "navrat_krale_sumavy_019.html",
       "next": null,
@@ -349,7 +349,7 @@
   "totals": {
     "all": {
       "words": 103847,
-      "chars": 612621,
+      "chars": 612620,
       "ideas": 3575
     },
     "chapters": {
