@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "zak-navrat-krale-sumavy-9b1f941",
-  "revision": "9b1f941",
+  "identifier": "zak-navrat-krale-sumavy-3606083",
+  "revision": "3606083",
   "readingOrder": [
     "promo.html",
     "navrat_krale_sumavy_006.html",
@@ -29,8 +29,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 21 2022 14:32:02 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658413922084
+    "date": "Thu Sep 29 2022 21:39:50 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664487590975
   },
   "documents": [
     {
@@ -88,9 +88,9 @@
     {
       "title": "Návrat Krále Šumavy",
       "file": "navrat_krale_sumavy_008.html",
-      "words": 28458,
-      "chars": 167215,
-      "ideas": 1065,
+      "words": 28456,
+      "chars": 167210,
+      "ideas": 1063,
       "role": "chapter",
       "order": 3,
       "prev": "navrat_krale_sumavy_007.html",
@@ -348,14 +348,14 @@
   ],
   "totals": {
     "all": {
-      "words": 103847,
-      "chars": 612621,
-      "ideas": 3575
+      "words": 103845,
+      "chars": 612616,
+      "ideas": 3573
     },
     "chapters": {
-      "words": 103696,
-      "chars": 611665,
-      "ideas": 3554
+      "words": 103694,
+      "chars": 611660,
+      "ideas": 3552
     }
   }
 }
