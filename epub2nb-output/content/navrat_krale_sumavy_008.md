@@ -2188,5 +2188,11 @@ V Hasilovi hrkne, běžel naslepo, rád by se dostal k Černému Kříži, sed
 Rumun pohlédne na svou ženu a pokrčí rameny.
 
 Josef opře lokty o stůl. Padá mu hlava. Položí ji na ruce a usne. Probudí ho až hlídka SNB z Nového Údolí. Strážmistr Řezáč Hasila odzbrojí a vyslechne. Neuvěří, že zabloudil, zvlášť poté, co spatří zásobník. Řezáč má ve věci jasno, Josef chtěl utéct za hranice. Nasadí mu želízka. Hasil je zatčen. Hlídka jej odváží do Stožce k dalšímu výslechu.
-[^1]: Pojďte oba se mnou na policejní stanici. Ale oba! Rychle! Rychle! Zůstaňte stát! Zatracenej Čechu, co si myslíš, kdo jsi? Stůj, nebo střelím! _Pozn. red._[^2] Ruce vzhůru! _Pozn. red._[^3] Sundej si opasek a odhoď brašnu. Ihned! _Pozn. red._
+
+[^1]: Pojďte oba se mnou na policejní stanici. Ale oba! Rychle! Rychle! Zůstaňte stát! Zatracenej Čechu, co si myslíš, kdo jsi? Stůj, nebo střelím! _Pozn. red._
+
+[^2]: Ruce vzhůru! _Pozn. red._
+
+[^3]: Sundej si opasek a odhoď brašnu. Ihned! _Pozn. red._
+
 </section>
