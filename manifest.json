@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "zak-navrat-krale-sumavy-eb65efc",
-  "revision": "eb65efc",
+  "identifier": "zak-navrat-krale-sumavy-9356f7d",
+  "revision": "9356f7d",
   "readingOrder": [
     "promo.html",
     "navrat_krale_sumavy_006.html",
@@ -29,8 +29,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 14:10:14 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665151814125
+    "date": "Mon Oct 10 2022 16:02:03 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665417723270
   },
   "documents": [
     {
@@ -328,9 +328,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 143,
-      "chars": 913,
-      "ideas": 17,
+      "words": 139,
+      "chars": 889,
+      "ideas": 16,
       "role": "about",
       "order": null,
       "prev": "navrat_krale_sumavy_019.html",
@@ -348,9 +348,9 @@
   ],
   "totals": {
     "all": {
-      "words": 103847,
-      "chars": 612606,
-      "ideas": 3575
+      "words": 103843,
+      "chars": 612582,
+      "ideas": 3574
     },
     "chapters": {
       "words": 103696,
