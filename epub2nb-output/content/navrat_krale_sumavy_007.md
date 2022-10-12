@@ -1,5 +1,5 @@
 ---
-title: Část prvníNA ČÁŘE
+title: Část první NA ČÁŘE
 contentType: prose
 ---
 

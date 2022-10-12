@@ -1,5 +1,5 @@
 ---
-title: Část třetíAGENT-CHODEC
+title: Část třetí AGENT-CHODEC
 contentType: prose
 ---
 
