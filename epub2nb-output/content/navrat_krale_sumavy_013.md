@@ -1,5 +1,5 @@
 ---
-title: Část čtvrtá OPONA SE ZATAHUJE
+title: Část čtvrtáOPONA SE ZATAHUJE
 contentType: prose
 ---
 

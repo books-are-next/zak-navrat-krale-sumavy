@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "zak-navrat-krale-sumavy-9356f7d",
-  "revision": "9356f7d",
+  "identifier": "zak-navrat-krale-sumavy-8aedc7b",
+  "revision": "8aedc7b",
   "readingOrder": [
     "promo.html",
     "navrat_krale_sumavy_006.html",
@@ -29,8 +29,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Oct 10 2022 16:02:03 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665417723270
+    "date": "Mon Oct 17 2022 18:02:26 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1666029746486
   },
   "documents": [
     {
@@ -66,7 +66,7 @@
       ]
     },
     {
-      "title": "Část první NA ČÁŘE",
+      "title": "Část prvníNA ČÁŘE",
       "file": "navrat_krale_sumavy_007.html",
       "words": 3,
       "chars": 17,
@@ -79,7 +79,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Část první NA ČÁŘE",
+          "name": "Část prvníNA ČÁŘE",
           "id": null,
           "children": []
         }
@@ -106,7 +106,7 @@
       ]
     },
     {
-      "title": "Část druhá ÚTĚK Z LÁGRU",
+      "title": "Část druháÚTĚK Z LÁGRU",
       "file": "navrat_krale_sumavy_009.html",
       "words": 4,
       "chars": 22,
@@ -119,7 +119,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Část druhá ÚTĚK Z LÁGRU",
+          "name": "Část druháÚTĚK Z LÁGRU",
           "id": null,
           "children": []
         }
@@ -146,7 +146,7 @@
       ]
     },
     {
-      "title": "Část třetí AGENT-CHODEC",
+      "title": "Část třetíAGENT-CHODEC",
       "file": "navrat_krale_sumavy_011.html",
       "words": 2,
       "chars": 22,
@@ -159,7 +159,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Část třetí AGENT-CHODEC",
+          "name": "Část třetíAGENT-CHODEC",
           "id": null,
           "children": []
         }
@@ -186,7 +186,7 @@
       ]
     },
     {
-      "title": "Část čtvrtá OPONA SE ZATAHUJE",
+      "title": "Část čtvrtáOPONA SE ZATAHUJE",
       "file": "navrat_krale_sumavy_013.html",
       "words": 4,
       "chars": 28,
@@ -199,7 +199,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Část čtvrtá OPONA SE ZATAHUJE",
+          "name": "Část čtvrtáOPONA SE ZATAHUJE",
           "id": null,
           "children": []
         }
@@ -226,7 +226,7 @@
       ]
     },
     {
-      "title": "Část pátá EPILOG",
+      "title": "Část pátáEPILOG",
       "file": "navrat_krale_sumavy_015.html",
       "words": 2,
       "chars": 15,
@@ -239,7 +239,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Část pátá EPILOG",
+          "name": "Část pátáEPILOG",
           "id": null,
           "children": []
         }
@@ -328,9 +328,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 139,
-      "chars": 889,
-      "ideas": 16,
+      "words": 143,
+      "chars": 926,
+      "ideas": 17,
       "role": "about",
       "order": null,
       "prev": "navrat_krale_sumavy_019.html",
@@ -348,9 +348,9 @@
   ],
   "totals": {
     "all": {
-      "words": 103843,
-      "chars": 612582,
-      "ideas": 3574
+      "words": 103847,
+      "chars": 612619,
+      "ideas": 3575
     },
     "chapters": {
       "words": 103696,

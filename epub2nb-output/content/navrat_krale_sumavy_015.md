@@ -1,5 +1,5 @@
 ---
-title: Část pátá EPILOG
+title: Část pátáEPILOG
 contentType: prose
 ---
 

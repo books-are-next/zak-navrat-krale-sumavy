@@ -13,6 +13,7 @@ meta:
   contentType: prose
   publisherShort: mkp
   edition: beletrie
+  isbn: 978-80-274-2836-6
 readingOrder:
   - promo.html
   - navrat_krale_sumavy_006.html

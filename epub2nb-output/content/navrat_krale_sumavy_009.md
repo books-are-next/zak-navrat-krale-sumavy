@@ -1,5 +1,5 @@
 ---
-title: "Část druhá ÚTĚK Z\_LÁGRU"
+title: "Část druháÚTĚK Z\_LÁGRU"
 contentType: prose
 ---
 
