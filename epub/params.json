@@ -9,7 +9,8 @@
       "modified": "2021-03-15T00:00:00.000Z",
       "contentType": "prose",
       "publisherShort": "mkp",
-      "edition": "beletrie"
+      "edition": "beletrie",
+      "isbn": "978-80-274-2836-6"
     },
     "elements": {
       "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
@@ -25,12 +26,12 @@
       "brAfter": ".+0.12\n.+12.12\n.+0.12.\n.+12.12.\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*",
       "blockquote": "MLP.DENIK\nMLP.dopis.*\nMLP.citat\nMLP.prima.rec\ne.bookdopis\ne.bookprozatextkurzivadoprava",
       "figure": "MLP.obrazky.*\nmlpobrazky",
+      "centered": ".*uprostred.*",
+      "verse": "MLP.verse.*",
       "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.verse.*\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
       "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\n.*_B_\n.*_B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
       "remove": "",
-      "ignore": "",
-      "centered": ".*uprostred.*",
-      "verse": "MLP.verse.*"
+      "ignore": ""
     },
     "structure": [
       {
@@ -108,8 +109,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "children": [],
-            "title": "Věnování"
+            "title": "Věnování",
+            "children": []
           },
           {
             "filename": "navrat_krale_sumavy_007.md",
@@ -121,6 +122,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "Část první Na Čáře",
             "children": [
               {
                 "filename": "navrat_krale_sumavy_008.md",
@@ -134,8 +136,7 @@
                 "hiddenTitle": false,
                 "children": []
               }
-            ],
-            "title": "Část první Na Čáře"
+            ]
           },
           {
             "filename": "navrat_krale_sumavy_009.md",
@@ -147,6 +148,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "Část druhá Útěk z lágru",
             "children": [
               {
                 "filename": "navrat_krale_sumavy_010.md",
@@ -160,8 +162,7 @@
                 "hiddenTitle": false,
                 "children": []
               }
-            ],
-            "title": "Část druhá Útěk z lágru"
+            ]
           },
           {
             "filename": "navrat_krale_sumavy_011.md",
@@ -173,6 +174,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "Část třetí Agent-chodec",
             "children": [
               {
                 "filename": "navrat_krale_sumavy_012.md",
@@ -186,8 +188,7 @@
                 "hiddenTitle": false,
                 "children": []
               }
-            ],
-            "title": "Část třetí Agent-chodec"
+            ]
           },
           {
             "filename": "navrat_krale_sumavy_013.md",
@@ -199,6 +200,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "Část čtvrtá Opona se zatahuje",
             "children": [
               {
                 "filename": "navrat_krale_sumavy_014.md",
@@ -212,8 +214,7 @@
                 "hiddenTitle": false,
                 "children": []
               }
-            ],
-            "title": "Část čtvrtá Opona se zatahuje"
+            ]
           },
           {
             "filename": "navrat_krale_sumavy_015.md",
@@ -225,6 +226,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "Část pátá Epilog",
             "children": [
               {
                 "filename": "navrat_krale_sumavy_016.md",
@@ -238,8 +240,7 @@
                 "hiddenTitle": false,
                 "children": []
               }
-            ],
-            "title": "Část pátá Epilog"
+            ]
           },
           {
             "filename": "navrat_krale_sumavy_017.md",
@@ -251,6 +252,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "Doslov",
             "children": [
               {
                 "filename": "navrat_krale_sumavy_018.md",
@@ -264,8 +266,7 @@
                 "hiddenTitle": false,
                 "children": []
               }
-            ],
-            "title": "Doslov"
+            ]
           },
           {
             "filename": "navrat_krale_sumavy_019.md",
@@ -277,8 +278,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "children": [],
-            "title": "Poděkování"
+            "title": "Poděkování",
+            "children": []
           },
           {
             "filename": "navrat_krale_sumavy_020.md",
@@ -343,7 +344,7 @@
         "xhtml": "navrat_krale_sumavy_006.xhtml"
       },
       {
-        "titleSuggest": "Část prvníNA ČÁŘE",
+        "titleSuggest": "Část první NA ČÁŘE",
         "subtitleSuggest": "",
         "filename": "navrat_krale_sumavy_007.md",
         "xhtml": "navrat_krale_sumavy_007.xhtml"
@@ -355,7 +356,7 @@
         "xhtml": "navrat_krale_sumavy_008.xhtml"
       },
       {
-        "titleSuggest": "Část druháÚTĚK Z LÁGRU",
+        "titleSuggest": "Část druhá ÚTĚK Z LÁGRU",
         "subtitleSuggest": "",
         "filename": "navrat_krale_sumavy_009.md",
         "xhtml": "navrat_krale_sumavy_009.xhtml"
@@ -367,7 +368,7 @@
         "xhtml": "navrat_krale_sumavy_010.xhtml"
       },
       {
-        "titleSuggest": "Část třetíAGENT-CHODEC",
+        "titleSuggest": "Část třetí AGENT-CHODEC",
         "subtitleSuggest": "",
         "filename": "navrat_krale_sumavy_011.md",
         "xhtml": "navrat_krale_sumavy_011.xhtml"
@@ -379,7 +380,7 @@
         "xhtml": "navrat_krale_sumavy_012.xhtml"
       },
       {
-        "titleSuggest": "Část čtvrtáOPONA SE ZATAHUJE",
+        "titleSuggest": "Část čtvrtá OPONA SE ZATAHUJE",
         "subtitleSuggest": "",
         "filename": "navrat_krale_sumavy_013.md",
         "xhtml": "navrat_krale_sumavy_013.xhtml"
@@ -391,7 +392,7 @@
         "xhtml": "navrat_krale_sumavy_014.xhtml"
       },
       {
-        "titleSuggest": "Část pátáEPILOG",
+        "titleSuggest": "Část pátá EPILOG",
         "subtitleSuggest": "",
         "filename": "navrat_krale_sumavy_015.md",
         "xhtml": "navrat_krale_sumavy_015.xhtml"
@@ -506,6 +507,6 @@
       "user": "books-are-next",
       "repo": "zak-navrat-krale-sumavy"
     },
-    "generatedAt": 1654949086111
+    "generatedAt": 1665416344387
   }
 }
